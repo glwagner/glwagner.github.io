@@ -1,20 +1,8 @@
 # main links
 main:
   - title: "Projects"
-    url: https://glwagner.github.io/projects/
+    url: /projects/
   - title: "Publications"
-    url: https://glwagner.github.io/publications/
+    url: /publications/
   - title: "About me"
-    url: https://glwagner.github.io/about/
-  #- title: "Talks"
-  #  url: https://glwagner.github.io/talks/
-  #- title: "Quick-Start Guide"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://glwagner.github.io/
-  # - title: "Publications"
-  #   url: https://glwagner.github.io/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: /about/
