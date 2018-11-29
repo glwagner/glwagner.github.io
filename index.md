@@ -19,8 +19,8 @@ newly-identified process called 'Squeeze dispersion' that affects the deep mixin
 of carbon and heat.
 
 Click around to learn more about [me][], [what I do][], read my 
-[curriculum vitae][], or email me 
-at `wagner.greg@gmail.com`.
+[curriculum vitae][], or email me at
+`gregory.leclaire.wagner@gmail.com`.
 
 [Earth, Atmospheric, and Planetary Sciences]: https://eapsweb.mit.edu
 [Climate Modeling Alliance]: https://clima.caltech.edu

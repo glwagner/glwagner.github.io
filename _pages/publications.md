@@ -9,11 +9,11 @@ Oceanic internal waves beneath surface waves
 Gregory L Wagner and Greg Chini
 *in preparation*
 
-[Squeeze dispersion: modulation of diapycnal mixing by diapycnal strain][11]
-Gregory L Wagner, Glenn Flierl, Raffaele Ferrari, Gunnar Voet, Glenn S Carter, Matthew H Alford, James B Girton
+[Squeeze dispersion: modulation of diapycnal mixing by diapycnal strain][11]  
+Gregory L Wagner, Glenn Flierl, Raffaele Ferrari, Gunnar Voet, Glenn S Carter, Matthew H Alford, James B Girton  
 **Geophysical Research Letters**, *submitted*
 
-[Stimulated generation: extraction of energy from balanced flow by near-inertial waves][10]     
+[Stimulated generation: extraction of energy from balanced flow by near-inertial waves][10]  
 Cesar B Rocha, Gregory L Wagner, and William R Young  
 **Journal of Fluid Mechanics**, *2018*
 
