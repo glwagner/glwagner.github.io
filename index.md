@@ -14,10 +14,8 @@ I use applied mathematics, computations, and observations
 to seek reduced models, simplifications, and explanations
 for complex oceanic phenomena.
 
-* Learn more about [me],
-* Learn more about [what I do],
-* Read my [curriculum vitae],
-* Email me at `gregory.leclaire.wagner@gmail.com`.
+Learn more about [me], [what I do], my [curriculum vitae],
+or email me at `gregory.leclaire.wagner@gmail.com`.
 
 [Earth, Atmospheric, and Planetary Sciences]: https://eapsweb.mit.edu
 [Climate Modeling Alliance]: https://clima.caltech.edu
