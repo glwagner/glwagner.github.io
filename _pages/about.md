@@ -1,5 +1,5 @@
 ---
-title: About me
+title: About me and my work
 header:
   image: /assets/images/headerMontage.jpg
 permalink: /about/
@@ -11,29 +11,21 @@ run, climb, ski, and explore the landscapes of Earth.
 As a scientist I study the Earth's ocean, its physics and motion, and
 the infinite entanglement of its eddies, currents, waves, and turbulence.
 
-I'm currently working to understand how the particular patterns and physics
-of [bottom-enhanced ocean turbulence][] modulate the transport of heat,
-carbon and other tracers between the sunlit upper ocean and the abyss.
-I'm funded by a [NOAA Climate & Global Change Postdoctoral Fellowship][]
-and working with [Raffaele Ferrari][] in the Department of Earth,
-Atmospheric, and Planetary Sciences at the Massachusetts Institute of 
-Technology. 
+Long ago, I was raised in a suburb outside of Boston, Massachusetts. 
+I moved to Ann Arbor, Michigan to pursue an undergraduate degree in 
+Aerospace Engineering, where I worked on combustion in porous media, 
+space propulsion, and wind energy. 
+I moved to San Diego for my PhD, working with [Eric Lauga][] 
+on locomotion, with Bill Young on nonlinear waves and with both 
+on microorganism mixing before receiving my PhD in May of 2016 for a 
+[dissertation][] titled "On the coupled 
+evolution of oceanic internal waves and quasi-geostrophic flow".
+Along the way, I fell in love with running, rock climbing, and 
+backcountry skiing.
 
-
-## More generally
-
-I was raised in a Boston suburb. After receiving Bachelor's and Master's 
-in Aerospace Engineering from the University of Michigan in 2010, I entered
-a PhD program in the Department of Mechanical and Aerospace Engineering at the 
-University of California, San Diego.  I worked with [Eric Lauga][] on problems
-in locomotion and *very* small-scale fluid dynamics for a few years before 
-refocusing on oceanography with [Bill Young][].
-
-I received my PhD in May of 2016 for a [dissertation][] titled "On the coupled 
-evolution of oceanic internal waves and quasi-geostrophic flow".  In my 
-dissertation I use asymptotic mathematical methods and simple computer 
-simulations to unearth oceanic truths about [ever-changing currents][] 
-and [subsurface internal waves][] with scales between 10 and 200 kilometers.
+I moved back to Boston in the fall of 2017 to start postdoctoral research 
+at MIT, where I've been working on abyssal mixing, parameterization of 
+oceanic processes, large eddy simulation, and ice climbing.
 
 If I'm not answering email, I may be somewhere beyond the end of the road, 
 exploring this wonderful planet...
