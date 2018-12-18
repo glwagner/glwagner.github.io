@@ -12,12 +12,11 @@ the ocean component for a new Earth System model.
 I seek answers to fundamental questions in fluid 
 dynamics and ocean physics. For example: what sets the density
 structure of the oceanic surface layer? 
-I use applied mathematics and computations --- and observations from time to time --- 
-to seek explanations, simplifications, or reduced models for complex oceanic phenomena.
+I use applied mathematics, computations, and observations
+to seek reduced models, simplifications, and explanations
+for complex oceanic phenomena.
 
 ### Around here
-
-You might
 
 * Learn more about [me],
 * Learn more about [what I do],
