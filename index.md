@@ -7,16 +7,12 @@ I'm a postdoctoral researcher in
 I'm working with the [Climate Modeling Alliance] to build 
 the ocean component for a new Earth System model.
 
-### My work
-
 I seek answers to fundamental questions in fluid 
 dynamics and ocean physics. For example: what sets the density
 structure of the oceanic surface layer? 
 I use applied mathematics, computations, and observations
 to seek reduced models, simplifications, and explanations
 for complex oceanic phenomena.
-
-### Around here
 
 * Learn more about [me],
 * Learn more about [what I do],
