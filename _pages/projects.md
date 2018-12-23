@@ -5,8 +5,6 @@ header:
 permalink: /projects/
 ---
 
-## Science
-
 ### Squeeze dispersion
 
 Squeeze dispersion is a phenomenon by which the dispersion of tracers
@@ -32,21 +30,19 @@ play in transporting oceanic tracers, is poorly understood.
 I've just started work to develop a parameterization for mixing 
 in the ocean's surface boundary layer for [Clima].
 
-## Software
-
 ### [dedaLES]
 
-[dedaLES] uses the [dedalus] framework to provide solvers
-for Large Eddy Simulation of turbulence systems on 
+[dedaLES] is python software that uses the [dedalus] framework 
+to provide solvers for Large Eddy Simulation of turbulence systems on 
 on both laptops and supercomputers. [dedaLES] is modular, so that fluid models
 (compressible turbulence, Boussinesq turbulence) and turbulence closures
 can be mixed and matched freely. My goal is to use [dedaLES] to model 
 turbulence mixing in the oceanic surface boundary layer. 
 I am developing [dedaLES] with [Keaton Burns].
 
-### [FourierFlows.jl]
+### [FourierFlows.jl] 
 
-[FourierFlows.jl] is a [julia] code that solves 'small' 2D fluid 
+[FourierFlows.jl] is [julia] software that solves 'small' 2D fluid 
 dynamics problems on CPUs and GPUs. I am developing FourierFlows.jl
 with [Navid Constantinou].
 
