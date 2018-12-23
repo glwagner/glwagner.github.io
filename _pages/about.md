@@ -12,17 +12,19 @@ run, climb, ski, and explore the landscapes of Earth.
 
 Long ago, I was raised in a suburb outside of Boston, Massachusetts. 
 Sometime later, I moved to Ann Arbor, Michigan to pursue an undergraduate 
-degree in Aerospace Engineering, where I worked on combustion in porous 
+degree in Aerospace Engineering. 
+There I worked on combustion in porous 
 media, space propulsion, and wind energy. 
-I then moved to San Diego for my PhD, working with [Eric Lauga][] 
+I moved to San Diego for my PhD in 2010, working with [Eric Lauga][] 
 on locomotion, with Bill Young on nonlinear waves and with both 
-on microorganism mixing before receiving my PhD in May of 2016 for a 
+on microorganism mixing.
+I received a PhD from UCSD in May of 2016 for a 
 [dissertation][] titled "On the coupled 
 evolution of oceanic internal waves and quasi-geostrophic flow".
-Along the way, I fell in love with running, rock climbing, surfing,
-and backcountry skiing.
+Along the way, I fell in love with running, rock climbing, 
+backcountry skiing, and surfing.
 
-I moved back to Boston in the fall of 2017 to start postdoctoral research 
+I moved back to Boston in the fall of 2016 to start postdoctoral research 
 at MIT, where I've been working on abyssal mixing, parameterization of 
 oceanic processes, large eddy simulation, and ice climbing.
 
