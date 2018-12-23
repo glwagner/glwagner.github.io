@@ -5,38 +5,57 @@ header:
 permalink: /projects/
 ---
 
+## Science
 
-## Squeeze dispersion
+### Squeeze dispersion
 
-We identify a connection between large-scale oceanic strain and net mixing rates
-that implies observations of oceanic turblence must be interpreted in
-a larger context to properly appreciate their effect on net ocean mixing.
+Squeeze dispersion is a phenomenon by which the dispersion of tracers
+is enhanced in the presence of fluctuating strain. 
+This process is important in systems where mixing is inherently diffusive 
+- as is oceanic mixing across density surfaces. 
+One major result is that in the presence of strain, averages of diffusivity tend to 
+underestimate the 'true' diffusivity that is obtained by 'correctly' averaging
+and normalizing tracer flux estimates.
 
-I've just submitted a [manuscript on Squeeze Dispersion][] to Geophysical Research Letters.
+### Internal waves and currents
 
-
-## Internal waves and currents
-
-[Subsurface internal waves][] modify the physics of [quasi-geostrophic eddies][]
+[Subsurface internal waves] modify the physics of [quasi-geostrophic eddies]
 and turbulence on scales from 10 to 100 km ---
 the ocean's version of storms and cyclones --- that play 
 a crucial role in transporting heat and carbon from equator to pole and 
 determining the ocean's density structure. The precise nature and importance
 of these interactions in the Earth's ocean is poorly understood.
 
+### Surface boundary layer mixing
 
-## [FourierFlows.jl][]
+I've just started work to develop a parameterization for mixing 
+in the ocean's surface boundary layer for [Clima].
 
-With [Navid Constantinou][], I am developing a code for solving 
-solution of partial different equations in simple domains using
-Fourier pseudospectral methods. The code intends to solve 
-relatively small two-dimensional and modest three-dimensional
-problems efficiently. Work is underway to use our code on
-GPUs.
+## Code
 
+### [dedaLES]
+
+[dedaLES] uses the [dedalus] framework to provide solvers
+for Large Eddy Simulation of turbulence systems on 
+on both laptops and supercomputers. [dedaLES] is modular, so that fluid models
+(compressible turbulence, Boussinesq turbulence) and turbulence closures
+can be mixed and matched freely. My goal is to use [dedaLES] to model 
+turbulence mixing in the oceanic surface boundary layer. 
+I am developing [dedaLES] with [Keaton Burns].
+
+### [FourierFlows.jl]
+
+[FourierFlows.jl] is a [julia] code that solves 'small' 2D fluid 
+dynamics problems on CPUs and GPUs. I am developing FourierFlows.jl
+with [Navid Constantinou].
 
 [Subsurface internal waves]: http://www.livescience.com/42459-huge-ocean-internal-waves-explained.html
 [quasi-geostrophic eddies]: https://en.wikipedia.org/wiki/Geostrophic_current
 [FourierFlows.jl]: https://github.com/FourierFlows/FourierFlows.jl
 [Navid Constantinou]: http://www.navidconstantinou.com
 [manuscript on Squeeze Dispersion]: https://glwagner.github.io/assets/pdf/squeezedispersiondraft.pdf
+[Clima]: https://clima.caltech.edu
+[julia]: https://julialang.org
+[dedaLES]: https://github.com/glwagner/dedaLES
+[dedalus]: http://dedalus-project.org
+[Keaton Burns]: http://keaton-burns.com
