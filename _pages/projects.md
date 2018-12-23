@@ -1,7 +1,7 @@
 ---
 title: The things that keep me up at night
 header:
-  image: /assets/images/blueoffice.jpg
+  image: /assets/images/blueoffice-2.jpg
 permalink: /projects/
 ---
 
@@ -12,10 +12,10 @@ permalink: /projects/
 Squeeze dispersion is a phenomenon by which the dispersion of tracers
 is enhanced in the presence of fluctuating strain. 
 This process is important in systems where mixing is inherently diffusive 
-- as is oceanic mixing across density surfaces. 
-One major result is that in the presence of strain, averages of diffusivity tend to 
-underestimate the 'true' diffusivity that is obtained by 'correctly' averaging
-and normalizing tracer flux estimates.
+--- for example, oceanic mixing across density surfaces. 
+This work shows that averages of diffusivity tend to 
+underestimate the 'true' diffusivity that is obtained by 'correctly'
+averaging and normalizing tracer flux estimates in the presence of strain.
 
 ### Internal waves and currents
 
@@ -24,14 +24,15 @@ and turbulence on scales from 10 to 100 km ---
 the ocean's version of storms and cyclones --- that play 
 a crucial role in transporting heat and carbon from equator to pole and 
 determining the ocean's density structure. The precise nature and importance
-of these interactions in the Earth's ocean is poorly understood.
+of these interactions in the Earth's ocean, and the role that waves
+play in transporting oceanic tracers, is poorly understood.
 
 ### Surface boundary layer mixing
 
 I've just started work to develop a parameterization for mixing 
 in the ocean's surface boundary layer for [Clima].
 
-## Code
+## Software
 
 ### [dedaLES]
 
