@@ -3,11 +3,9 @@ title: Publications
 permalink: /publications/
 ---
 
-## Journal publications
-
-Oceanic internal waves beneath surface waves
-Gregory L Wagner and Greg Chini
-*in preparation*
+Oceanic internal waves beneath surface waves  
+Gregory L Wagner and Greg Chini  
+*in preparation*  
 
 [Squeeze dispersion: modulation of diapycnal mixing by diapycnal strain][11]  
 Gregory L Wagner, Glenn Flierl, Raffaele Ferrari, Gunnar Voet, Glenn S Carter, Matthew H Alford, James B Girton  
@@ -55,10 +53,11 @@ Thomas Liu, Gregory Wagner, Alec Gallimore, Brian Gilchrist, Peter Peterson
 **AIAA/ASME/SAE/ASEE Joint Propulsion Conference**, *2009*
 
 
-## My doctoral dissertation
+# My doctoral dissertation
 
-* [Just the introduction][] (fun!)
-* [The whole thing][] (a large file)
+[Just the introduction][] (fun!)  
+
+[The whole thing][] (a large file)  
 
 
 [Just the introduction]: https://glwagner.github.io/assets/pdf/glwDissertationIntroduction.pdf 
