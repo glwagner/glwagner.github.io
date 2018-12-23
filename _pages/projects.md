@@ -33,12 +33,12 @@ in the ocean's surface boundary layer for [Clima].
 ### [dedaLES]
 
 [dedaLES] is python software that uses the [dedalus] framework 
-to provide solvers for Large Eddy Simulation of turbulence systems on 
-on both laptops and supercomputers. [dedaLES] is modular, so that fluid models
-(compressible turbulence, Boussinesq turbulence) and turbulence closures
-can be mixed and matched freely. My goal is to use [dedaLES] to model 
-turbulence mixing in the oceanic surface boundary layer. 
-I am developing [dedaLES] with [Keaton Burns].
+to provide solvers for Large Eddy Simulation of turbulence systems
+on both laptops and supercomputers. [dedaLES] is modular, so that
+fluid models (compressible turbulence, stratified turbulence, etc) 
+and turbulence closures can be easily mixed and matched. 
+My goal is to use [dedaLES] to model turbulence mixing in the oceanic 
+surface boundary layer. I am developing [dedaLES] with [Keaton Burns].
 
 ### [FourierFlows.jl] 
 
