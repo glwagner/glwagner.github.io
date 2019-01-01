@@ -6,6 +6,8 @@ I'm a postdoctoral researcher in
 [Earth, Atmospheric, and Planetary Sciences] at [MIT].
 I'm currently working with the [Climate Modeling Alliance] to build 
 the ocean component for a new Earth System model.
+I was a postdoctoral fellow in the [NOAA Climate and Global
+Change program] from 2016--2018.
 
 I study the Earth’s ocean, its physics and motion, 
 and the infinite entanglement of its eddies, currents, waves, 
@@ -25,6 +27,5 @@ or email me at `gregory.leclaire.wagner@gmail.com`.
 [curriculum vitae]: https://glwagner.github.io/assets/pdf/glwCv.pdf
 [me]: https://glwagner.github.io/about/
 [what I do]: https://glwagner.github.io/projects/
-[NOAA fellowship]: http://vsp.ucar.edu/cgc/current-awards-alumni 
-[manuscript]: https://glwagner.github.io/assets/pdf/squeezedispersiondraft.pdf
+[NOAA Climate and Global Change program]: http://vsp.ucar.edu/cgc/current-awards-alumni 
 [MIT]: http://www.mit.edu
