@@ -5,7 +5,8 @@ header:
 permalink: /projects/
 ---
 
-Questions about my work? Email me
+  
+Questions about my work? Email me at
 `gregory.leclaire.wagner@gmail.com`.
 
 ### Squeeze dispersion
