@@ -3,13 +3,14 @@ title: Publications
 permalink: /publications/
 ---
 
-Oceanic internal waves beneath surface waves  
-Gregory L Wagner and Greg Chini  
-*in preparation*  
+0.  Oceanic internal waves beneath surface waves  
+    Gregory L Wagner and Greg Chini  
+    *in preparation*  
 
-[Squeeze dispersion: modulation of diapycnal mixing by diapycnal strain][11]  
-Gregory L Wagner, Glenn Flierl, Raffaele Ferrari, Gunnar Voet, Glenn S Carter, Matthew H Alford, James B Girton  
-**Geophysical Research Letters**, *in preparation*
+0.  [Squeeze dispersion: modulation of diapycnal mixing by diapycnal strain][11]  
+    Gregory L Wagner, Glenn Flierl, Raffaele Ferrari, Gunnar Voet, Glenn S Carter, Matthew H Alford, James B Girton  
+    **Geophysical Research Letters**, *in preparation*
+{: reversed="reversed"}
 
 [Stimulated generation: extraction of energy from balanced flow by near-inertial waves][10]  
 Cesar B Rocha, Gregory L Wagner, and William R Young  
@@ -55,13 +56,14 @@ Thomas Liu, Gregory Wagner, Alec Gallimore, Brian Gilchrist, Peter Peterson
 
 # My doctoral dissertation  
 
-
-[Just the introduction][] (fun!)  
-[The whole thing][] (a large file)  
+* [Just the introduction] (fun!)  
+* [The whole thing] (single-spaced and sanely formatted)  
+* [Official version on ProQuest] (double-spaced)
 
 
 [Just the introduction]: https://glwagner.github.io/assets/pdf/glwDissertationIntroduction.pdf 
 [The whole thing]: https://glwagner.github.io/assets/pdf/glwDissertation.pdf 
+[Official version on ProQuest]: https://search.proquest.com/openview/ef72173747526fae401cdbdbcfdfc224/1?pq-origsite=gscholar&cbl=18750&diss=y
 
 [11]: https://glwagner.github.io/assets/pdf/squeezedispersiondraft.pdf
 [10]: https://glwagner.github.io/assets/pdf/stimulatedGeneration-JFM-2018.pdf
