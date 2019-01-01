@@ -5,7 +5,7 @@ title: Me: human and scientist
 I'm a postdoctoral researcher in 
 [Earth, Atmospheric, and Planetary Sciences] at [MIT].
 I'm currently working with the [Climate Modeling Alliance] to build 
-the ocean component for a new Earth System model.
+the ocean component for a new earth system model.
 I was a postdoctoral fellow in the [NOAA Climate and Global
 Change program] from 2016--2018.
 
