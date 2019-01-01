@@ -7,8 +7,10 @@ permalink: /about/
 
 I study the Earth's ocean, its physics and motion, and
 the infinite entanglement of its eddies, turbulence, currents, and waves.
+I do a lot of math, write code that runs on supercomputers, and occasionally
+go to [sea] (but not often).
 I love to learn and to teach, to think about past and future, and to 
-run, climb, ski, and explore the landscapes of Earth. 
+run, climb, ski, and explore the landscapes of Earth.
 
 **Long ago**, I spent most of my childhood in a suburb 
 outside Boston, Massachusetts. 
@@ -22,12 +24,12 @@ on microorganism mixing.
 I received a PhD from UCSD in May of 2016 for a 
 [dissertation] titled 
 [*On the coupled evolution of oceanic internal waves and quasi-geostrophic flow*][proquest].
-Along the way, I fell in love with running, rock climbing, 
-backcountry skiing, and surfing.
+Along the way, I fell in love with [running], [climbing], 
+[backcountry skiing], and [surfing].
 
 I moved back to Boston in November 2016 to start postdoctoral research 
 at MIT, where I've been working on ocean mixing, parameterization of 
-oceanic processes, large eddy simulation, and ice climbing.
+oceanic processes, large eddy simulation, and [ice climbing].
 
 If I'm not answering email, I may be somewhere beyond the end of the road, 
 exploring this wonderful planet...
@@ -58,6 +60,13 @@ exploring this wonderful planet...
 * NOAA Climate and Global Change Postdoctoral Fellowship (2016--2018)
 * Outstanding Teaching Assistant Award, Dept of Mech and Aero Engineering, UCSD (Spring 2016)
 * Focht-Powell Graduate Fellowship, UCSD (2010--2013)
+
+[running]: https://www.instagram.com/p/BmtDWqkFima/
+[climbing]: https://www.instagram.com/p/BJ3P3f5hi0_/
+[backcountry skiing]: https://www.instagram.com/p/BBI_r4tjGXB/
+[surfing]: https://www.instagram.com/p/BITANs6h1d2/
+[sea]: https://www.instagram.com/p/BIVpnCXhKhW/
+[ice climbing]: https://www.instagram.com/p/BrePE11hyYb/
 
 [dissertation]: https://glwagner.github.io/publications#dissertation
 [proquest]: https://search.proquest.com/openview/ef72173747526fae401cdbdbcfdfc224/1?pq-origsite=gscholar&cbl=18750&diss=y
