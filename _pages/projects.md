@@ -5,6 +5,9 @@ header:
 permalink: /projects/
 ---
 
+Questions about my work? Email me
+`gregory.leclaire.wagner@gmail.com`.
+
 ### Squeeze dispersion
 
 Squeeze dispersion is a phenomenon by which the dispersion of tracers
