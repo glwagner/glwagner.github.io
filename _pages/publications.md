@@ -51,17 +51,14 @@ permalink: /publications/
 0.  [Specific Charge Control for Micro/Nano-Particle Electrostatic Propulsion][1]  
     Thomas Liu, Gregory Wagner, Alec Gallimore, Brian Gilchrist, Peter Peterson  
     **AIAA/ASME/SAE/ASEE Joint Propulsion Conference**, *2009*
-
 {: reversed="reversed"}
 
 
 # <a id="dissertation"></a>My doctoral dissertation
 
-0. [Just the introduction] (fun!)  
-0. [The whole thing] (single-spaced and sanely formatted)  
-0. [Official version on ProQuest] (double-spaced)
-
-{: reversed="reversed"}
+* [Just the introduction] (fun!)  
+* [The whole thing] (single-spaced and sanely formatted)  
+* [Official version on ProQuest] (double-spaced)
 
 
 [Just the introduction]: https://glwagner.github.io/assets/pdf/glwDissertationIntroduction.pdf 

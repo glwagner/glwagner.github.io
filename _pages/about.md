@@ -16,12 +16,12 @@ Sometime later, I moved to Ann Arbor, Michigan to pursue an undergraduate
 degree in Aerospace Engineering. 
 There I worked on combustion in porous 
 media, space propulsion, and wind energy. 
-I moved to San Diego to pursue a PhD in 2010, working with [Eric Lauga][] 
+I moved to San Diego to pursue a PhD in 2010, working with [Eric Lauga]
 on locomotion, with Bill Young on nonlinear waves and with both 
 on microorganism mixing.
 I received a PhD from UCSD in May of 2016 for a 
-[dissertation][] titled 
-[*On the coupled evolution of oceanic internal waves and quasi-geostrophic flow*][dissertation].
+[dissertation] titled 
+[*On the coupled evolution of oceanic internal waves and quasi-geostrophic flow*][proquest].
 Along the way, I fell in love with running, rock climbing, 
 backcountry skiing, and surfing.
 
@@ -59,8 +59,8 @@ exploring this wonderful planet...
 * Outstanding Teaching Assistant Award, Dept of Mech and Aero Engineering, UCSD (Spring 2016)
 * Focht-Powell Graduate Fellowship, UCSD (2010--2013)
 
-
-[dissertation]: https://search.proquest.com/openview/ef72173747526fae401cdbdbcfdfc224/1?pq-origsite=gscholar&cbl=18750&diss=y
+[dissertation]: https://glwagner.github.io/publications#dissertation
+[proquest]: https://search.proquest.com/openview/ef72173747526fae401cdbdbcfdfc224/1?pq-origsite=gscholar&cbl=18750&diss=y
 [CV]: https://glwagner.github.io/assets/pdf/glwCv.pdf
 [ever-changing currents]: http://oceanservice.noaa.gov/facts/eddy.html
 [subsurface internal waves]: https://en.wikipedia.org/wiki/Internal_wave
@@ -68,5 +68,4 @@ exploring this wonderful planet...
 [Raffaele Ferrari]: http://ferrari.mit.edu 
 [Bill Young]: http://pordlabs.ucsd.edu/wryoung/
 [Eric Lauga]: http://www.damtp.cam.ac.uk/user/lauga/
-[publications]: https://glwagner.github.io/publications#dissertation/
 [bottom-enhanced ocean turbulence]: http://www.nature.com/nature/journal/v513/n7517/full/513179a.html
