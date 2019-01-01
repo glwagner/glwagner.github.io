@@ -9,7 +9,7 @@ Gregory L Wagner and Greg Chini
 
 [Squeeze dispersion: modulation of diapycnal mixing by diapycnal strain][11]  
 Gregory L Wagner, Glenn Flierl, Raffaele Ferrari, Gunnar Voet, Glenn S Carter, Matthew H Alford, James B Girton  
-**Geophysical Research Letters**, *submitted*
+**Geophysical Research Letters**, *in preparation*
 
 [Stimulated generation: extraction of energy from balanced flow by near-inertial waves][10]  
 Cesar B Rocha, Gregory L Wagner, and William R Young  
@@ -53,10 +53,10 @@ Thomas Liu, Gregory Wagner, Alec Gallimore, Brian Gilchrist, Peter Peterson
 **AIAA/ASME/SAE/ASEE Joint Propulsion Conference**, *2009*
 
 
-# My doctoral dissertation
+# My doctoral dissertation  
+
 
 [Just the introduction][] (fun!)  
-
 [The whole thing][] (a large file)  
 
 
