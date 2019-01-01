@@ -6,34 +6,35 @@ permalink: /about/
 ---
 
 I study the Earth's ocean, its physics and motion, and
-the infinite entanglement of its eddies, currents, waves, and turbulence.
+the infinite entanglement of its eddies, turbulence, currents, and waves.
 I love to learn and to teach, to think about past and future, and to 
 run, climb, ski, and explore the landscapes of Earth. 
 
-Long ago, I was raised in a suburb outside of Boston, Massachusetts. 
+**Long ago**, I spent most of my childhood in a suburb 
+outside Boston, Massachusetts. 
 Sometime later, I moved to Ann Arbor, Michigan to pursue an undergraduate 
 degree in Aerospace Engineering. 
 There I worked on combustion in porous 
 media, space propulsion, and wind energy. 
-I moved to San Diego for my PhD in 2010, working with [Eric Lauga][] 
+I moved to San Diego to pursue a PhD in 2010, working with [Eric Lauga][] 
 on locomotion, with Bill Young on nonlinear waves and with both 
 on microorganism mixing.
 I received a PhD from UCSD in May of 2016 for a 
-[dissertation][] titled "On the coupled 
-evolution of oceanic internal waves and quasi-geostrophic flow".
+[dissertation][] titled *On the coupled 
+evolution of oceanic internal waves and quasi-geostrophic flow*.
 Along the way, I fell in love with running, rock climbing, 
 backcountry skiing, and surfing.
 
-I moved back to Boston in the fall of 2016 to start postdoctoral research 
-at MIT, where I've been working on abyssal mixing, parameterization of 
+I moved back to Boston in November 2016 to start postdoctoral research 
+at MIT, where I've been working on ocean mixing, parameterization of 
 oceanic processes, large eddy simulation, and ice climbing.
 
 If I'm not answering email, I may be somewhere beyond the end of the road, 
 exploring this wonderful planet...
 
-## [My life's course]
+## An abbreviated curriculum vitae ([pdf][CV])
 
-### Employment
+### Work
 
 * since 2018: Postdoctoral Associate, Massachusetts Institute of Technology
 * 2016--2018: Postdoctoral Fellow, Massachusetts Institute of Technology
@@ -58,7 +59,7 @@ exploring this wonderful planet...
 * Outstanding Teaching Assistant Award, Dept of Mech and Aero Engineering, UCSD (Spring 2016)
 * Focht-Powell Graduate Fellowship, UCSD (2010--2013)
 
-[My life's course]: https://glwagner.github.io/assets/pdf/glwCv.pdf
+[CV]: https://glwagner.github.io/assets/pdf/glwCv.pdf
 [ever-changing currents]: http://oceanservice.noaa.gov/facts/eddy.html
 [subsurface internal waves]: https://en.wikipedia.org/wiki/Internal_wave
 [NOAA Climate & Global Change Postdoctoral Fellowship]: http://vsp.ucar.edu/cgc/current-awards-alumni 
