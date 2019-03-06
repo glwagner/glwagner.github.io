@@ -7,7 +7,15 @@ permalink: /projects/
 
   
 Questions about my work? Email me at
-`gregory.leclaire.wagner@gmail.com`.
+`gregory.leclaire.wagner@gmail.com`. 
+See my [github] for real-time updates on my software projects.
+
+### Turbulent surface boundary layers
+
+I am working on developing models for turbulence in the ocean's
+surface boundary layer with 'optimized' and uncertainty-quantified
+parameters. 
+This work is part of the [CliMa] project.
 
 ### Squeeze dispersion
 
@@ -29,10 +37,13 @@ determining the ocean's density structure. The precise nature and importance
 of these interactions in the Earth's ocean, and the role that waves
 play in transporting oceanic tracers, is poorly understood.
 
-### Surface boundary layer mixing
+### [Oceananigans.jl]
 
-I've just started work to develop a parameterization for mixing 
-in the ocean's surface boundary layer for [Clima].
+[Oceananigans.jl] is a fast and friendly solver for the direct
+and large eddy simulation of ocean-relevant
+fluids problems in julia and using the MITgcm algorithm.
+I contribute to the development of [Oceananigans.jl] as
+part of the [CliMa] project.
 
 ### [dedaLES]
 
@@ -55,8 +66,9 @@ with [Navid Constantinou].
 [FourierFlows.jl]: https://github.com/FourierFlows/FourierFlows.jl
 [Navid Constantinou]: http://www.navidconstantinou.com
 [manuscript on Squeeze Dispersion]: https://glwagner.github.io/assets/pdf/squeezedispersiondraft.pdf
-[Clima]: https://clima.caltech.edu
+[CliMa]: https://clima.caltech.edu
 [julia]: https://julialang.org
 [dedaLES]: https://github.com/glwagner/dedaLES
 [dedalus]: http://dedalus-project.org
 [Keaton Burns]: http://keaton-burns.com
+[github]: https://github.com/glwagner
