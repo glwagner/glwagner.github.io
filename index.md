@@ -9,6 +9,11 @@ the ocean component for a new earth system model.
 I was a postdoctoral fellow in the [NOAA Climate and Global
 Change program] from 2016--2018.
 
+Something I've been working on lately is a piece of julia
+software called `OceanTurb.jl` for prototyping 
+one-dimensional models of the ocean surface boundary layer. 
+Check out [`OceanTurb.jl` on github](https://github.com/glwagner/OceanTurb.jl).
+
 I study the Earth’s ocean, its physics and motion, 
 and the infinite entanglement of its eddies, currents, waves, 
 and turbulence. My work is motivated by basic questions in 
