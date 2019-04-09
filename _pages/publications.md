@@ -3,13 +3,9 @@ title: Publications
 permalink: /publications/
 ---
 
-0.  Oceanic internal waves beneath surface waves  
-    Gregory L Wagner and Greg Chini  
-    *in preparation*  
-
 0.  [Squeeze dispersion: modulation of diapycnal mixing by diapycnal strain][11]  
     Gregory L Wagner, Glenn Flierl, Raffaele Ferrari, Gunnar Voet, Glenn S Carter, Matthew H Alford, James B Girton  
-    **Geophysical Research Letters**, *submitted*
+    **Geophysical Research Letters**, *accepted*
 
 0.  [Stimulated generation: extraction of energy from balanced flow by near-inertial waves][10]  
     Cesar B Rocha, Gregory L Wagner, and William R Young  
