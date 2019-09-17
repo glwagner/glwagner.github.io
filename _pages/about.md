@@ -38,7 +38,7 @@ exploring this wonderful planet...
 
 ### Work
 
-* since 2018: Postdoctoral Associate, Massachusetts Institute of Technology
+* since 2019: Research Scientist, Massachusetts Institute of Technology
 * 2016--2018: Postdoctoral Fellow, Massachusetts Institute of Technology
 * 2014--2016: Teaching Assistant and Graduate Research Assistant, University of California, San Diego
 * 2009--2010: Research Engineer, Accio Energy
