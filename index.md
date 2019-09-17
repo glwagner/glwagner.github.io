@@ -20,7 +20,8 @@ and a framework for developing pseudospectral partial differential equation solv
 for CPUs and GPUs called [`FourierFlows.jl`](https://github.com/FourierFlows).
 I'm particularly interested in designing high-performance software for
 computational physics and oceanography that maximizes the productivity of scientists, 
-increases scientific reproducibility, and makes science more accessible.
+increases scientific reproducibility, and makes science more accessible, understandable, 
+and communicable.
 
 More generally, I study the Earth’s ocean, its physics and motion, 
 and the infinite entanglement of its eddies, currents, waves, 
