@@ -10,7 +10,7 @@ I was a postdoctoral fellow in the [NOAA Climate and Global
 Change program] from 2016--2018.
 
 Lately my work has branched into two main efforts: software development, 
-and the development of parmaeterizations and turbulence models for ocean general circulation 
+and the development of parameterizations and turbulence models for ocean general circulation 
 and climate models. In software, I've been writing a lot of [julia](https://julialang.org) 
 code: a GPU code for large eddy simulation called 
 [`Oceananigans.jl`](https://github.com/climate-machine/Oceananigans.jl),
