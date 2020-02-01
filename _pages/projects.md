@@ -5,8 +5,7 @@ header:
 permalink: /projects/
 ---
 
-  
-Questions about my work? Email me at
+Have questions about my work? Email me at
 `gregory.leclaire.wagner@gmail.com`. 
 See my [github] for real-time updates on my software projects.
 
@@ -21,8 +20,8 @@ This work is part of the [CliMa] project.
 
 Squeeze dispersion is a phenomenon by which the dispersion of tracers
 is enhanced in the presence of fluctuating strain. 
-This process is important in systems where mixing is inherently diffusive 
---- for example, oceanic mixing across density surfaces. 
+This process is important in systems where mixing is inherently diffusive, 
+including, for example, the vertical mixing of heat and carbon in the Earth's ocean.
 This work shows that averages of diffusivity tend to 
 underestimate the 'true' diffusivity that is obtained by 'correctly'
 averaging and normalizing tracer flux estimates in the presence of strain.
@@ -41,19 +40,11 @@ play in transporting oceanic tracers, is poorly understood.
 
 [Oceananigans.jl] is a fast and friendly solver for the direct
 and large eddy simulation of ocean-relevant
-fluids problems in julia and using the MITgcm algorithm.
+fluids problems in julia.
 I contribute to the development of [Oceananigans.jl] as
 part of the [CliMa] project.
-
-### [dedaLES]
-
-[dedaLES] is python software that uses the [dedalus] framework 
-to provide solvers for Large Eddy Simulation of turbulence systems
-on both laptops and supercomputers. [dedaLES] is modular, so that
-fluid models (compressible turbulence, stratified turbulence, etc) 
-and turbulence closures can be easily mixed and matched. 
-My goal is to use [dedaLES] to model turbulence mixing in the oceanic 
-surface boundary layer. I am developing [dedaLES] with [Keaton Burns].
+I use and develop Oceananigans.jl to study turbulent mixing in the
+ocean surface boundary layer.
 
 ### [FourierFlows.jl] 
 
@@ -65,10 +56,9 @@ with [Navid Constantinou].
 [quasi-geostrophic eddies]: https://en.wikipedia.org/wiki/Geostrophic_current
 [FourierFlows.jl]: https://github.com/FourierFlows/FourierFlows.jl
 [Navid Constantinou]: http://www.navidconstantinou.com
-[manuscript on Squeeze Dispersion]: https://glwagner.github.io/assets/pdf/squeezedispersiondraft.pdf
 [CliMa]: https://clima.caltech.edu
 [julia]: https://julialang.org
-[dedaLES]: https://github.com/glwagner/dedaLES
+[Oceananigans.jl]: https://github.com/climate-machine/Oceananigans.jl
 [dedalus]: http://dedalus-project.org
 [Keaton Burns]: http://keaton-burns.com
 [github]: https://github.com/glwagner
