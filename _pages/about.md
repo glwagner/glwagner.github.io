@@ -71,10 +71,10 @@ exploring this wonderful planet...
 
 [wellesley]: https://en.wikipedia.org/wiki/Wellesley,_Massachusetts
 [clima]: https://clima.caltech.edu
-[large eddy simulation]: https://dedales.readthedocs.io/en/latest/
+[large eddy simulation]: http://bit.ly/oceananigans
 [dissertation]: https://glwagner.github.io/publications#dissertation
 [proquest]: https://search.proquest.com/openview/ef72173747526fae401cdbdbcfdfc224/1?pq-origsite=gscholar&cbl=18750&diss=y
-[CV]: https://glwagner.github.io/assets/pdf/glwCv.pdf
+[CV]: https://glwagner.github.io/assets/pdf/glw-curriculum-vitae.pdf
 [ever-changing currents]: http://oceanservice.noaa.gov/facts/eddy.html
 [subsurface internal waves]: https://en.wikipedia.org/wiki/Internal_wave
 [NOAA Climate & Global Change Postdoctoral Fellowship]: http://vsp.ucar.edu/cgc/current-awards-alumni 

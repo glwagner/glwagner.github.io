@@ -61,8 +61,8 @@ permalink: /publications/
 * [Official version on ProQuest] (double-spaced)
 
 
-[Just the introduction]: https://glwagner.github.io/assets/pdf/glwDissertationIntroduction.pdf 
-[The whole thing]: https://glwagner.github.io/assets/pdf/glwDissertation.pdf 
+[Just the introduction]: https://glwagner.github.io/assets/pdf/glw-dissertation-intro.pdf 
+[The whole thing]: https://glwagner.github.io/assets/pdf/glw-dissertation.pdf 
 [Official version on ProQuest]: https://search.proquest.com/openview/ef72173747526fae401cdbdbcfdfc224/1?pq-origsite=gscholar&cbl=18750&diss=y
 
 [11]: https://glwagner.github.io/assets/pdf/squeeze-dispersion-GRL-2019.pdf

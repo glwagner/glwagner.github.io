@@ -38,7 +38,7 @@ or email me at `gregory.leclaire.wagner@gmail.com`.
 [Earth, Atmospheric, and Planetary Sciences]: https://eapsweb.mit.edu
 [Climate Modeling Alliance]: https://clima.caltech.edu
 [Julia]: https://julialang.org
-[curriculum vitae]: https://glwagner.github.io/assets/pdf/glwCv.pdf
+[curriculum vitae]: https://glwagner.github.io/assets/pdf/glw-curriculum-vitae.pdf
 [me]: https://glwagner.github.io/about/
 [what I do]: https://glwagner.github.io/projects/
 [NOAA Climate and Global Change program]: http://vsp.ucar.edu/cgc/current-awards-alumni 
