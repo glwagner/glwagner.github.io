@@ -13,11 +13,11 @@ I love to learn and to teach, to think about past and future, and to
 run, climb, ski, and explore the landscapes of Earth.
 
 **Long ago**, I spent most of my childhood in a [suburb 
-outside Boston, Massachusetts][wellesley]. 
+outside Boston][wellesley]. 
 Sometime later, I studied Aerospace Engineering and worked on
 on combustion in porous media, space propulsion, and wind energy 
-in Ann Arbor, Michigan, before moving to San Diego to pursue a PhD in 2010.
-I worked with [Eric Lauga] on locomotion, with [Bill Young] on nonlinear waves 
+in Ann Arbor before moving to San Diego to pursue a PhD in 2010.
+I worked with [Eric Lauga] on locomotion, with [Bill Young] on nonlinear waves,
 and with both on microorganism mixing.
 I received a PhD from UCSD in May of 2016 for a 
 [dissertation] titled 
@@ -25,7 +25,7 @@ I received a PhD from UCSD in May of 2016 for a
 Along the way, I fell in love with [running], [climbing], 
 [backcountry skiing], and [surfing].
 
-I moved back to Boston in November 2016 to work at [MIT][office]. I work on ocean mixing, 
+I moved back to Boston in November 2016 to work at [MIT][office] on ocean mixing, 
 [parameterization of oceanic processes][clima], [large eddy simulation], and [ice climbing].
 
 If I'm not answering email, I may be somewhere beyond the end of the road, 
