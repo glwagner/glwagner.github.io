@@ -50,9 +50,7 @@ play in transporting oceanic tracers, is poorly understood.
 [Oceananigans.jl] is a fast and friendly solver for the direct
 and large eddy simulation of ocean-relevant
 fluids problems in julia.
-I contribute to the development of [Oceananigans.jl] as
-part of the [CliMa] project.
-I use and develop Oceananigans.jl to study turbulent mixing in the
+I develop and use [Oceananigans.jl] to study turbulent mixing in the
 ocean surface boundary layer.
 
 ### [FourierFlows.jl] 

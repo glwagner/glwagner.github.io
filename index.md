@@ -8,8 +8,8 @@ I'm studying physics, writing software, and building the ocean
 component for a new earth system model with the [Climate Modeling Alliance].
 
 My research interests include modeling ocean turbulence at large and small
-scales, geophysical fluid dynamics, and software design strategies that make
-ocean modeling as easy and as accessible as possible.
+scales, geophysical fluid dynamics, and software design that 
+empowers scientists and makes ocean modeling as accessible as possible.
 
 Learn more about [me], [what I do], read my [curriculum vitae],
 or email me at `gregory.leclaire.wagner@gmail.com`.
