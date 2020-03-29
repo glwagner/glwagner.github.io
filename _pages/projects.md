@@ -27,8 +27,6 @@ is enhanced in the presence of fluctuating strain.
 
 ![Squeezing](https://glwagner.github.io/assets/figures/squeezing.pdf)
 
-<img src="https://glwagner.github.io/assets/figures/squeezing.pdf" width=300 align=center>
-
 As a result the average diffusivity underestimates the 'true' effective diffusivity
 of oceanic tracers.
 
@@ -55,8 +53,8 @@ ocean surface boundary layer.
 
 ### [FourierFlows.jl] 
 
-[FourierFlows.jl] is [julia] software that solves 'small' 2D fluid 
-dynamics problems on CPUs and GPUs. I am developing FourierFlows.jl
+[FourierFlows.jl] is [julia] software that solves fluid dynamics
+dynamics problems on CPUs and GPUs. I develop FourierFlows.jl
 with [Navid Constantinou].
 
 [Subsurface internal waves]: http://www.livescience.com/42459-huge-ocean-internal-waves-explained.html
