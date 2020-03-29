@@ -7,29 +7,26 @@ permalink: /about/
 
 I study the Earth's ocean, its physics and motion, and
 the infinite entanglement of its eddies, turbulence, currents, and waves.
-I do a lot of math, write code that runs on supercomputers, and 
-very occasionally go to [sea].
+I do a lot of math and write code that runs on supercomputers (and
+in the distant past I went to [sea]).
 I love to learn and to teach, to think about past and future, and to 
 run, climb, ski, and explore the landscapes of Earth.
 
 **Long ago**, I spent most of my childhood in a [suburb 
 outside Boston, Massachusetts][wellesley]. 
-Sometime later, I moved to Ann Arbor, Michigan to pursue an undergraduate 
-degree in Aerospace Engineering. 
-There I worked on combustion in porous 
-media, space propulsion, and wind energy. 
-I moved to San Diego to pursue a PhD in 2010, working with [Eric Lauga]
-on locomotion, with [Bill Young] on nonlinear waves and with both 
-on microorganism mixing.
+Sometime later, I studied Aerospace Engineering and worked on
+on combustion in porous media, space propulsion, and wind energy 
+in Ann Arbor, Michigan, before moving to San Diego to pursue a PhD in 2010.
+I worked with [Eric Lauga] on locomotion, with [Bill Young] on nonlinear waves 
+and with both on microorganism mixing.
 I received a PhD from UCSD in May of 2016 for a 
 [dissertation] titled 
 [*On the coupled evolution of oceanic internal waves and quasi-geostrophic flow*][proquest].
 Along the way, I fell in love with [running], [climbing], 
 [backcountry skiing], and [surfing].
 
-I moved back to Boston in November 2016 to start postdoctoral research 
-at [MIT][office], where I've been working on ocean mixing, [parameterization of 
-oceanic processes][clima], [large eddy simulation], and [ice climbing].
+I moved back to Boston in November 2016 to work at [MIT][office]. I work on ocean mixing, 
+[parameterization of oceanic processes][clima], [large eddy simulation], and [ice climbing].
 
 If I'm not answering email, I may be somewhere beyond the end of the road, 
 exploring this wonderful planet...
