@@ -16,6 +16,8 @@ surface boundary layer with 'optimized' and uncertainty-quantified
 parameters. 
 This work is part of the [CliMa] project.
 
+I gave this poster at Ocean Sciences 2020 in San Diego:
+
 ![OSM20](https://glwagner.github.io/assets/figures/ocean_sciences_2020_poster.pdf)
 
 ### Squeeze dispersion
