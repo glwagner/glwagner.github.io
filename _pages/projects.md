@@ -27,10 +27,10 @@ is enhanced in the presence of fluctuating strain.
 
 ![Squeezing](https://glwagner.github.io/assets/figures/squeezing.pdf)
 
-As a result the average diffusivity underestimates the 'true' effective diffusivity
-of oceanic tracers.
+Because of squeeze dispersion, 'averaging diffusivity' acts to underestimate
+the true effective diffusivity of oceanic tracers.
 
-This process is important in systems where mixing is inherently diffusive, 
+Squeeze dispersion is important in systems where mixing is inherently diffusive,
 including, for example, the vertical mixing of heat and carbon in the Earth's ocean.
 
 ### Internal waves and currents
