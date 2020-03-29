@@ -23,7 +23,8 @@ This work is part of the [CliMa] project.
 Squeeze dispersion is a phenomenon by which the dispersion of tracers
 is enhanced in the presence of fluctuating strain. 
 
-![Squeezing](https://glwagner.github.io/assets/figures/squeezing.pdf)
+<img src=https://glwagner.github.io/assets/figures/squeezing.pdf
+     alt="Squeezing" title="Squeeze dispersion" width="150" height="100" />
 
 As a result the average diffusivity underestimates the 'true' effective diffusivity
 of oceanic tracers.
