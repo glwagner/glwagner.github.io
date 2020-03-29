@@ -16,19 +16,20 @@ surface boundary layer with 'optimized' and uncertainty-quantified
 parameters. 
 This work is part of the [CliMa] project.
 
-This poster I made for Ocean Sciences 2020 in San Diego summarizes my progress:
-
 ![OSM20](https://glwagner.github.io/assets/figures/ocean_sciences_2020_poster.pdf)
 
 ### Squeeze dispersion
 
 Squeeze dispersion is a phenomenon by which the dispersion of tracers
 is enhanced in the presence of fluctuating strain. 
+
+![Squeezing](https://glwagner.github.io/assets/figures/squeezing.pdf)
+
+As a result the average diffusivity underestimates the 'true' effective diffusivity
+of oceanic tracers.
+
 This process is important in systems where mixing is inherently diffusive, 
 including, for example, the vertical mixing of heat and carbon in the Earth's ocean.
-This work shows that averages of diffusivity tend to 
-underestimate the 'true' diffusivity that is obtained by 'correctly'
-averaging and normalizing tracer flux estimates in the presence of strain.
 
 ### Internal waves and currents
 
