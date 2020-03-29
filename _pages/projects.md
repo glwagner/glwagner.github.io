@@ -16,6 +16,10 @@ surface boundary layer with 'optimized' and uncertainty-quantified
 parameters. 
 This work is part of the [CliMa] project.
 
+This poster I made for Ocean Sciences 2020 in San Diego summarizes my progress:
+
+![OSM20](https://glwagner.github.io/assets/figures/ocean_sciences_2020_poster.pdf)
+
 ### Squeeze dispersion
 
 Squeeze dispersion is a phenomenon by which the dispersion of tracers
