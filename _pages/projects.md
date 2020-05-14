@@ -28,10 +28,11 @@ far, but there's a lot of work left to do.
 ### [Oceananigans.jl]
 
 In the course of my work on turbulent boundary layers, I run a lot
-of large eddy simulations using [Oceananigans.jl], is a fast and 
-friendly code for simulating the motion of fluids that I'm helping to develop.
+of large eddy simulations using [Oceananigans.jl]. 
+[Oceananigans.jl] is a fast and friendly code for simulating the motion '
+of fluids that I'm helping to develop.
 [Oceananigans.jl] is written in the Julia programming 
-language and is mostly useful when running on Graphics Processing Units.
+language and runs on Graphics Processing Units.
 
 ### Surface gravity waves and turbulence
 
