@@ -1,5 +1,5 @@
 ---
-title: The things that keep me up at night
+title: A few things I work on
 header:
   image: /assets/images/blueoffice-2.jpg
 permalink: /projects/
@@ -16,40 +16,54 @@ surface boundary layer with 'optimized' and uncertainty-quantified
 parameters. 
 This work is part of the [CliMa] project.
 
-I gave this poster at Ocean Sciences 2020 in San Diego:
+I gave this poster below at Ocean Sciences 2020 in San Diego.
+The poster shows some recent progress I've made comparing different
+one-dimensional models for turbulence near the surface of the ocean to 
+high-fidelity numerical simulations. We come to the conclusion that
+one model outperforms another in the narrow context we've considered so
+far, but there's a lot of work left to do.
 
-![OSM20](https://glwagner.github.io/assets/figures/ocean_sciences_2020_poster.pdf)
+![OSM20](/assets/figures/ocean_sciences_2020_poster.pdf)
+
+### [Oceananigans.jl]
+
+In the course of my work on turbulent boundary layers, I run a lot
+of large eddy simulations using [Oceananigans.jl], is a fast and 
+friendly code for simulating the motion of fluids that I'm helping to develop.
+[Oceananigans.jl] is written in the Julia programming 
+language and is mostly useful when running on Graphics Processing Units.
+
+### Surface gravity waves and turbulence
+
+Frothing, whitecapping, undulating surface waves are the top of the
+ocean surface boundary layer. I work a bit on the interactions between
+surface waves and boundary layer turbulence.
+
+The image below depicts turbulence simulated by
+[Oceananigans.jl]. The image shows the turbulent vertical velocity field
+that develops following the growth of a surface wave field with 
+a wave length of one hundred meters over four hours.
+
+![Forced growth](/assets/figures/forced_growth.png)
 
 ### Squeeze dispersion
 
 Squeeze dispersion is a phenomenon by which the dispersion of tracers
 is enhanced in the presence of fluctuating strain. 
 
-![Squeezing](https://glwagner.github.io/assets/figures/squeezing.pdf)
+The image below illustrates two layers of fluid that are colored green
+and blue and on which a tracer 'c' has different concentrations.
+Due to this difference in tracer concentration, the tracer 'fluxes'
+across the fluid between the two layers at the rate 'F'.
 
-Because of squeeze dispersion, 'averaging diffusivity' acts to underestimate
-the true effective diffusivity of oceanic tracers.
+<img src="/assets/figures/squeezing.pdf" width="700" class="center" alt="squeezing.pdf"/>
 
-Squeeze dispersion is important in systems where mixing is inherently diffusive,
-including, for example, the vertical mixing of heat and carbon in the Earth's ocean.
+Because the flux 'F' is inversely proportional the the thickness of the layer,
+squeezing and straining increases the tracer flux across the layer on average,
+all else equal.
 
-### Internal waves and currents
-
-[Subsurface internal waves] modify the physics of [quasi-geostrophic eddies]
-and turbulence on scales from 10 to 100 km ---
-the ocean's version of storms and cyclones --- that play 
-a crucial role in transporting heat and carbon from equator to pole and 
-determining the ocean's density structure. The precise nature and importance
-of these interactions in the Earth's ocean, and the role that waves
-play in transporting oceanic tracers, is poorly understood.
-
-### [Oceananigans.jl]
-
-[Oceananigans.jl] is a fast and friendly solver for the direct
-and large eddy simulation of ocean-relevant
-fluids problems in julia.
-I develop and use [Oceananigans.jl] to study turbulent mixing in the
-ocean surface boundary layer.
+Squeeze dispersion can matter in systems where mixing is inherently diffusive,
+including, for example, the mixing of heat and carbon in the ocean's abyss.
 
 ### [FourierFlows.jl] 
 
