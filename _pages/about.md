@@ -12,7 +12,7 @@ in the distant past I went to [sea]).
 I love to learn and to teach, to think about past and future, and to 
 run, climb, ski, and explore the landscapes of Earth.
 
-**Long ago**, I spent most of my childhood in a [suburb 
+**Long ago**, I grew up in a [suburb 
 outside Boston][wellesley]. 
 Sometime later, I studied Aerospace Engineering and worked on
 on combustion in porous media, space propulsion, and wind energy 
