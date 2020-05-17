@@ -11,7 +11,7 @@ See my [github] for real-time updates on my software projects.
 
 ### Turbulent surface boundary layers
 
-I am working on developing models for turbulence in the ocean's
+I am developing models for turbulence in the ocean's
 surface boundary layer with 'optimized' and uncertainty-quantified
 parameters. 
 This work is part of the [CliMa] project.
