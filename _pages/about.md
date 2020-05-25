@@ -5,16 +5,15 @@ header:
 permalink: /about/
 ---
 
-I study the Earth's ocean, its physics and motion, and
-the infinite entanglement of its eddies, turbulence, currents, and waves.
+I research the Earth's ocean, its physics and motion, and
+its entangled eddies, turbulence, currents, and waves.
 I do a lot of math and write code that runs on supercomputers (and
 in the distant past I went to [sea]).
 I love to learn and to teach, to think about past and future, and to 
 run, climb, ski, and explore the landscapes of Earth.
 
-**Long ago**, I grew up in a [suburb 
-outside Boston][wellesley]. 
-Sometime later, I studied Aerospace Engineering and worked on
+**Long ago**, I grew up in a [Boston suburb][wellesley]. 
+Later, I studied Aerospace Engineering and worked on
 on combustion in porous media, space propulsion, and wind energy 
 in Ann Arbor before moving to San Diego to pursue a PhD in 2010.
 I worked with [Eric Lauga] on locomotion, with [Bill Young] on nonlinear waves,
@@ -27,9 +26,6 @@ Along the way, I fell in love with [running], [climbing],
 
 I moved back to Boston in November 2016 to work at [MIT][office] on ocean mixing, 
 [parameterization of oceanic processes][clima], [large eddy simulation], and [ice climbing].
-
-If I'm not answering email, I may be somewhere beyond the end of the road, 
-exploring this wonderful planet...
 
 ## An abbreviated curriculum vitae ([pdf][CV])
 

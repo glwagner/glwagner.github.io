@@ -4,12 +4,12 @@ title: Me: human and scientist
 
 I'm a research scientist in 
 [Earth, Atmospheric, and Planetary Sciences] at [MIT].
-I'm studying physics, writing software, and building the ocean
-component for a new earth system model with the [Climate Modeling Alliance].
 
-My research interests include modeling ocean turbulence at large and small
-scales, geophysical fluid dynamics, and software design that 
-empowers scientists and makes ocean modeling as accessible as possible.
+I'm interested in ocean physics, waves, turbulence, mixing,
+and software design that empowers scientists and makes ocean modeling 
+as accessible as possible.
+I'm currently working with the [Climate Modeling Alliance] 
+to build the ocean component for a new earth system model.
 
 Learn more about [me], [what I do], read my [curriculum vitae],
 or email me at `gregory.leclaire.wagner@gmail.com`.

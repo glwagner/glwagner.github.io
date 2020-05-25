@@ -3,9 +3,19 @@ title: Publications
 permalink: /publications/
 ---
 
+
+0.  The effects of surface wave Stokes drift on ocean circulation
+    Gregory L Wagner, Navid Contantinou, and Brandon Reichl
+    **in preparation for the Journal of Physical Oceanography**, *2020*
+
 0.  Near-inertial waves and turbulence driven by the growth of surface waves
     Gregory L Wagner, Ali Ramadhan, Greg C Chini, Basile Gallet, and Raffaele Ferrari
     **in preparation for the Journal of Physical Oceanography**, *2020*
+
+0.  Uncertainty quantification of ocean parameterizations: application to the K-Profile-Parameterization for penetrative convection
+    Andre Souza, Gregory L Wagner, Ali Ramadhan, Brandon Allen, Valentin Churavy, James Schloss, Jean-Michel Campin, Chris Hill,
+    Alan Edelman, John Marshall, Glenn Flierl, Raffaele Ferrari
+    **in review with the Journal of Advances in Modeling Earth Systems**, *2020*
 
 0.  [Squeeze dispersion: modulation of diapycnal mixing by diapycnal strain][11]
     Gregory L Wagner, Glenn Flierl, Raffaele Ferrari, Gunnar Voet, Glenn S Carter, Matthew H Alford, James B Girton
