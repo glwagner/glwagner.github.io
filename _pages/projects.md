@@ -23,7 +23,7 @@ high-fidelity numerical simulations. We come to the conclusion that
 one model outperforms another in the narrow context we've considered so
 far, but there's a lot of work left to do.
 
-![OSM20](/assets/figures/ocean_sciences_2020_poster.pdf)
+![OSM20](/assets/figures/ocean_sciences_2020_poster.png)
 
 ### [Oceananigans.jl]
 
