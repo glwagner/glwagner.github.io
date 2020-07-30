@@ -8,11 +8,11 @@ permalink: /publications/
     Gregory L Wagner, Navid Contantinou, and Brandon Reichl
     **in preparation for the Journal of Physical Oceanography**, *2020*
 
-0.  Near-inertial waves and turbulence driven by the growth of surface waves
+0.  [Near-inertial waves and turbulence driven by the growth of surface waves][13]
     Gregory L Wagner, Ali Ramadhan, Greg C Chini, Basile Gallet, and Raffaele Ferrari
     **in preparation for the Journal of Physical Oceanography**, *2020*
 
-0.  Uncertainty quantification of ocean parameterizations: application to the K-Profile-Parameterization for penetrative convection
+0.  [Uncertainty quantification of ocean parameterizations: application to the K-Profile-Parameterization for penetrative convection][12]
     Andre Souza, Gregory L Wagner, Ali Ramadhan, Brandon Allen, Valentin Churavy, James Schloss, Jean-Michel Campin, Chris Hill,
     Alan Edelman, John Marshall, Glenn Flierl, Raffaele Ferrari
     **in review with the Journal of Advances in Modeling Earth Systems**, *2020*
@@ -70,11 +70,12 @@ permalink: /publications/
 * [The whole thing] (single-spaced and sanely formatted)
 * [Official version on ProQuest] (double-spaced)
 
-
 [Just the introduction]: https://glwagner.github.io/assets/pdf/glw-dissertation-intro.pdf 
 [The whole thing]: https://glwagner.github.io/assets/pdf/glw-dissertation.pdf 
 [Official version on ProQuest]: https://search.proquest.com/openview/ef72173747526fae401cdbdbcfdfc224/1?pq-origsite=gscholar&cbl=18750&diss=y
 
+[13]: https://glwagner.github.io/assets/pdf/near-inertial-waves-turbulence-growth-swell-preprint.pdf
+[12]: https://www.essoar.org/doi/abs/10.1002/essoar.10502546.1
 [11]: https://glwagner.github.io/assets/pdf/squeeze-dispersion-GRL-2019.pdf
 [10]: https://glwagner.github.io/assets/pdf/stimulated-generation-JFM-2018.pdf
 [9]: https://glwagner.github.io/assets/pdf/asymptotic-internal-tides-JFM-2017.pdf
