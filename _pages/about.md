@@ -7,8 +7,8 @@ permalink: /about/
 
 I research the Earth's ocean, its physics and motion, and
 its entangled eddies, turbulence, currents, and waves.
-I do a lot of math and write code that runs on supercomputers (and
-in the distant past I went to [sea]).
+I do a lot of math and write code that runs on supercomputers.
+In the distant past, I went to [sea].
 I love to learn and to teach, to think about past and future, and to 
 run, climb, ski, and explore the landscapes of Earth.
 
