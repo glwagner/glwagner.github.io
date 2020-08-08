@@ -3,62 +3,61 @@ title: Publications
 permalink: /publications/
 ---
 
-
-0.  The effects of surface wave Stokes drift on ocean circulation
+0.  The effects of surface wave Stokes drift on ocean circulation 
     Gregory L Wagner, Navid Contantinou, and Brandon Reichl
-    **in preparation for the Journal of Physical Oceanography**, *2020*
+    **Geophysical Research Letters**, *in preparation*
 
-0.  [Near-inertial waves and turbulence driven by the growth of surface waves][13]
+0.  [Near-inertial waves and turbulence driven by the growth of swell][13] 
     Gregory L Wagner, Ali Ramadhan, Greg C Chini, Basile Gallet, and Raffaele Ferrari
-    **in preparation for the Journal of Physical Oceanography**, *2020*
+    **Journal of Physical Oceanography**, *in review*
 
-0.  [Uncertainty quantification of ocean parameterizations: application to the K-Profile-Parameterization for penetrative convection][12]
+0.  [Uncertainty quantification of ocean parameterizations: application to the K-Profile-Parameterization for penetrative convection][12] 
     Andre Souza, Gregory L Wagner, Ali Ramadhan, Brandon Allen, Valentin Churavy, James Schloss, Jean-Michel Campin, Chris Hill,
     Alan Edelman, John Marshall, Glenn Flierl, Raffaele Ferrari
-    **in review with the Journal of Advances in Modeling Earth Systems**, *2020*
+    **Journal of Advances in Modeling Earth Systems**, *in review*
 
-0.  [Squeeze dispersion: modulation of diapycnal mixing by diapycnal strain][11]
+0.  [Squeeze dispersion: modulation of diapycnal mixing by diapycnal strain][11] 
     Gregory L Wagner, Glenn Flierl, Raffaele Ferrari, Gunnar Voet, Glenn S Carter, Matthew H Alford, James B Girton
     **Geophysical Research Letters**, *2019*
 
-0.  [Stimulated generation: extraction of energy from balanced flow by near-inertial waves][10]
+0.  [Stimulated generation: extraction of energy from balanced flow by near-inertial waves][10] 
     Cesar B Rocha, Gregory L Wagner, and William R Young
     **Journal of Fluid Mechanics**, *2018*
 
-0.  [An asymptotic model for the propagation of internal tides through quasi-geostrophic flow][9]
+0.  [An asymptotic model for the propagation of internal tides through quasi-geostrophic flow][9] 
     Gregory L Wagner, Gwenael Ferrando and William R Young
     **Journal of Fluid Mechanics**, *2017*
 
-0.  [A three-component model for the coupled evolution of near-inertial waves, quasi-geostrophic flow, and the near-inertial second harmonic][8]
+0.  [A three-component model for the coupled evolution of near-inertial waves, quasi-geostrophic flow, and the near-inertial second harmonic][8] 
     Gregory L Wagner and William R Young
     **Journal of Fluid Mechanics**, *2016*
 
-0.  [A tale of two spicy seas][7]
+0.  [A tale of two spicy seas][7] 
     Jennifer A MacKinnon *et al.*
     **Oceanography**, *2016*
 
-0.  [Acoustically propelled nanoshells][6]
+0.  [Acoustically propelled nanoshells][6] 
     Fernando Soto, Gregory L Wagner, Victor Garcia-Gradilla, Kyle T Gillespie, Deepak R Lakshmipathy,
     Emil Karshalev, Chava Angell, Yi Chen, Joseph Wang
     **Nanoscale**, *2016*
 
-0.  [Available potential vorticity and wave-averaged quasi-geostrophic flow][5]
+0.  [Available potential vorticity and wave-averaged quasi-geostrophic flow][5] 
     Gregory L Wagner and William R Young
     **Journal of Fluid Mechanics**, *2015*
 
-0.  [Mixing by microorganisms in stratified fluids][4]
+0.  [Mixing by microorganisms in stratified fluids][4] 
     Gregory L Wagner, Eric Lauga, and William R Young
     **Journal of Marine Research**, *2014*
 
-0.  [Bubble-Propelled Micromotors for Enhanced Transport of Passive Tracers][3]
+0.  [Bubble-Propelled Micromotors for Enhanced Transport of Passive Tracers][3] 
     Jahir Orozco *et al.*
     **Langmuir**, *2014*
 
-0.  [Crawling scallop: Friction-based locomotion with one degree of freedom][2]
+0.  [Crawling scallop: Friction-based locomotion with one degree of freedom][2] 
     Gregory L Wagner and Eric Lauga
     **Journal of Theoretical Biology**, *2013*
 
-0.  [Specific Charge Control for Micro/Nano-Particle Electrostatic Propulsion][1]
+0.  [Specific Charge Control for Micro/Nano-Particle Electrostatic Propulsion][1] 
     Thomas Liu, Gregory Wagner, Alec Gallimore, Brian Gilchrist, Peter Peterson
     **AIAA/ASME/SAE/ASEE Joint Propulsion Conference**, *2009*
 {: reversed="reversed"}
