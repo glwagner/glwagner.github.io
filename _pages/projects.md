@@ -75,9 +75,8 @@ was published in Geophysical Research Letters in 2019](https://glwagner.github.i
 
 ### [FourierFlows.jl] 
 
-[FourierFlows.jl] is [julia] software that solves fluid dynamics
-dynamics problems on CPUs and GPUs. I develop FourierFlows.jl
-with [Navid Constantinou].
+[FourierFlows.jl] is [julia] software that solves fluid dynamics problems 
+on CPUs and GPUs. I develop FourierFlows.jl with [Navid Constantinou].
 
 [Subsurface internal waves]: http://www.livescience.com/42459-huge-ocean-internal-waves-explained.html
 [quasi-geostrophic eddies]: https://en.wikipedia.org/wiki/Geostrophic_current
