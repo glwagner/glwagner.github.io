@@ -64,11 +64,11 @@ is enhanced in the presence of fluctuating strain.
 The image below illustrates two layers of fluid that are colored green
 and blue and on which a tracer 'c' has different concentrations.
 Due to this difference in tracer concentration, the tracer 'fluxes'
-across the fluid between the two layers at the rate 'F'.
+across the fluid between the two layers at the rate _F_.
 
 ![Squeezing](/assets/figures/squeezing.pdf)
 
-Because the flux 'F' is inversely proportional the the thickness of the layer,
+Because the flux _F_ is inversely proportional the the thickness of the layer,
 squeezing and straining increases the tracer flux across the layer on average,
 all else equal.
 
@@ -83,16 +83,16 @@ In a past life I studied the interaction between
 'internal waves'
 -- [giant, deep, slow cousins to surface waves](https://en.wikipedia.org/wiki/Internal_wave)
 and 'quasi-geostrophic flow', or the
-[currents and eddies that comprise the ocean's weather](https://www.windy.com/-Currents-currents?currents,39.045,-77.476,5),.
+[currents and eddies that comprise the ocean's weather](https://www.windy.com/-Currents-currents?currents,39.045,-77.476,5).
 
-The image below depicts idealized ocean weather (depicted by potential vorticity, 'Q')
-and an internal wave field (depicted by the horizontal wave velocity, 'u')
+The image below depicts idealized ocean weather (depicted by potential vorticity, _Q_)
+and an internal wave field (depicted by the horizontal wave velocity, _u_)
 that distort and interact with one another.
 
-![Wave-induced flow](/assets/figures/wave_induced_flow.pdf)
+![Wave-induced flow](/assets/figures/wave_induced_flow.png)
 
 The effect of waves on weather are associated with the 'wave-induced flow'
-(depicted by its speed, '|∇χ|') --- mean currents associated with the 'nonlinearity'
+(depicted by its speed, _|∇χ|_) --- mean currents associated with the 'nonlinearity'
 of the wave field.
 
 ### [FourierFlows.jl] 
