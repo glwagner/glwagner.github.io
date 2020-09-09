@@ -62,7 +62,7 @@ Squeeze dispersion is a phenomenon by which the dispersion of tracers
 is enhanced in the presence of fluctuating strain. 
 
 The image below illustrates two layers of fluid that are colored green
-and blue and on which a tracer 'c' has different concentrations.
+and blue and on which a tracer _c_ has different concentrations.
 Due to this difference in tracer concentration, the tracer 'fluxes'
 across the fluid between the two layers at the rate _F_.
 
