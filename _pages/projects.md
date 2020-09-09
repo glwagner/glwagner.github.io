@@ -32,14 +32,18 @@ In the course of my work on turbulent boundary layers, I run a lot
 of large eddy simulations using [Oceananigans.jl]. 
 [Oceananigans.jl] is a fast and friendly code for simulating the motion
 of fluids that I'm helping to develop.
-[Oceananigans.jl] is written in the Julia programming 
-language and runs on Graphics Processing Units.
 
-### Surface gravity waves and turbulence
+![Oceananigans docs](/assets/figures/oceananigans_docs.png)
+
+[Oceananigans.jl] is written in the Julia programming 
+language and runs on CPUs and GPUs.
+
+### Surface gravity waves and wave-turbulence interactions
 
 Frothing, whitecapping, undulating surface waves are the top of the
-ocean surface boundary layer. I work a bit on the interactions between
-surface waves and boundary layer turbulence.
+ocean surface boundary layer. I work both on the theory of surface
+wave forcing and momentum transfer between the atmosphere and ocean, and
+on interactions between surface waves and boundary layer turbulence.
 
 The image below depicts turbulence simulated by
 [Oceananigans.jl]. The image shows the turbulent vertical velocity field
@@ -62,7 +66,7 @@ and blue and on which a tracer 'c' has different concentrations.
 Due to this difference in tracer concentration, the tracer 'fluxes'
 across the fluid between the two layers at the rate 'F'.
 
-![Squeezing][/assets/figures/squeezing.pdf]
+![Squeezing](/assets/figures/squeezing.pdf)
 
 Because the flux 'F' is inversely proportional the the thickness of the layer,
 squeezing and straining increases the tracer flux across the layer on average,
@@ -72,6 +76,24 @@ Squeeze dispersion can matter in systems where mixing is inherently diffusive,
 including, for example, the mixing of heat and carbon in the ocean's abyss.
 More information about squeeze dispersion is given in our [paper that
 was published in Geophysical Research Letters in 2019](https://glwagner.github.io/assets/pdf/squeeze-dispersion-GRL-2019.pdf).
+
+### Internal waves and quasi-geostrophic flow
+
+In a past life I studied the interaction between
+'internal waves'
+-- [giant, deep, slow cousins to surface waves](https://en.wikipedia.org/wiki/Internal_wave)
+and 'quasi-geostrophic flow', or the
+[currents and eddies that comprise the ocean's weather](https://www.windy.com/-Currents-currents?currents,39.045,-77.476,5),.
+
+The image below depicts idealized ocean weather (depicted by potential vorticity, 'Q')
+and an internal wave field (depicted by the horizontal wave velocity, 'u')
+that distort and interact with one another.
+
+![Wave-induced flow](/assets/figures/wave_induced_flow.pdf)
+
+The effect of waves on weather are associated with the 'wave-induced flow'
+(depicted by its speed, '|∇χ|') --- mean currents associated with the 'nonlinearity'
+of the wave field.
 
 ### [FourierFlows.jl] 
 
