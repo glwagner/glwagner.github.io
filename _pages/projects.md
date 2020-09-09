@@ -66,7 +66,7 @@ and blue and on which a tracer 'c' has different concentrations.
 Due to this difference in tracer concentration, the tracer 'fluxes'
 across the fluid between the two layers at the rate _F_.
 
-![Squeezing](/assets/figures/squeezing.pdf)
+![Squeezing](/assets/figures/squeezing.png)
 
 Because the flux _F_ is inversely proportional the the thickness of the layer,
 squeezing and straining increases the tracer flux across the layer on average,
