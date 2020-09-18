@@ -55,7 +55,7 @@ I moved back to Boston in November 2016 to work at [MIT][office] on ocean mixing
 * Focht-Powell Graduate Fellowship, UCSD (2010--2013)
 
 [running]: https://www.instagram.com/p/BmtDWqkFima/
-[climbing]: https://www.instagram.com/p/BJ3P3f5hi0_/
+[climbing]: https://www.instagram.com/p/B9owtecnYl6/
 [backcountry skiing]: https://www.instagram.com/p/BBI_r4tjGXB/
 [surfing]: https://www.instagram.com/p/BITANs6h1d2/
 [sea]: https://www.instagram.com/p/BIVpnCXhKhW/
