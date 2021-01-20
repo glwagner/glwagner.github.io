@@ -9,7 +9,7 @@ permalink: /publications/
 
 0.  [Near-inertial waves and turbulence driven by the growth of swell][13] 
     Gregory L Wagner, Ali Ramadhan, Greg C Chini, Basile Gallet, and Raffaele Ferrari
-    **Journal of Physical Oceanography**, *in review*
+    **Journal of Physical Oceanography**, *in press*
 
 0.  [Uncertainty quantification of ocean parameterizations: application to the K-Profile-Parameterization for penetrative convection][12] 
     Andre Souza, Gregory L Wagner, Ali Ramadhan, Brandon Allen, Valentin Churavy, James Schloss, Jean-Michel Campin, Chris Hill,
