@@ -9,12 +9,12 @@ permalink: /publications/
 
 0.  [Near-inertial waves and turbulence driven by the growth of swell][13] 
     Gregory L Wagner, Ali Ramadhan, Greg C Chini, Basile Gallet, and Raffaele Ferrari
-    **Journal of Physical Oceanography**, *in press*
+    **Journal of Physical Oceanography**, *2021*
 
 0.  [Uncertainty quantification of ocean parameterizations: application to the K-Profile-Parameterization for penetrative convection][12] 
     Andre Souza, Gregory L Wagner, Ali Ramadhan, Brandon Allen, Valentin Churavy, James Schloss, Jean-Michel Campin, Chris Hill,
     Alan Edelman, John Marshall, Glenn Flierl, Raffaele Ferrari
-    **Journal of Advances in Modeling Earth Systems**, *in review*
+    **Journal of Advances in Modeling Earth Systems**, *2020*
 
 0.  [Squeeze dispersion: modulation of diapycnal mixing by diapycnal strain][11] 
     Gregory L Wagner, Glenn Flierl, Raffaele Ferrari, Gunnar Voet, Glenn S Carter, Matthew H Alford, James B Girton
