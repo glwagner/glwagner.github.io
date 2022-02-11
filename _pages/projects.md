@@ -106,7 +106,7 @@ on CPUs and GPUs. I develop FourierFlows.jl with [Navid Constantinou].
 [Navid Constantinou]: http://www.navidconstantinou.com
 [CliMa]: https://clima.caltech.edu
 [julia]: https://julialang.org
-[Oceananigans.jl]: https://github.com/climate-machine/Oceananigans.jl
+[Oceananigans.jl]: https://clima.github.io/OceananigansDocumentation/stable/
 [dedalus]: http://dedalus-project.org
 [Keaton Burns]: http://keaton-burns.com
 [github]: https://github.com/glwagner
