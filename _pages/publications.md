@@ -3,9 +3,9 @@ title: Publications
 permalink: /publications/
 ---
 
-0.  The effects of surface wave Stokes drift on ocean circulation 
-    Gregory L Wagner, Navid Contantinou, and Brandon Reichl
-    **Geophysical Research Letters**, *in preparation*
+0.  [Ocean general circulation models simulate total ocean transport averaged over surface waves][14]
+    Gregory L Wagner, Navid C Constantinou, and Brandon Reichl
+    **Geophysical Research Letters**, *submitted*
 
 0.  [Near-inertial waves and turbulence driven by the growth of swell][13] 
     Gregory L Wagner, Ali Ramadhan, Greg C Chini, Basile Gallet, and Raffaele Ferrari
@@ -73,6 +73,7 @@ permalink: /publications/
 [The whole thing]: https://glwagner.github.io/assets/pdf/glw-dissertation.pdf 
 [Official version on ProQuest]: https://search.proquest.com/openview/ef72173747526fae401cdbdbcfdfc224/1?pq-origsite=gscholar&cbl=18750&diss=y
 
+[14]: https://glwagner.github.io/assets/pdf/Stokes-drift-ocean-circulation-Wagner-Constantinou-Reichl.pdf
 [13]: https://glwagner.github.io/assets/pdf/near-inertial-waves-turbulence-growth-swell-preprint.pdf
 [12]: https://www.essoar.org/doi/abs/10.1002/essoar.10502546.1
 [11]: https://glwagner.github.io/assets/pdf/squeeze-dispersion-GRL-2019.pdf
