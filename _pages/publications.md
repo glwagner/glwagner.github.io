@@ -3,7 +3,7 @@ title: Publications
 permalink: /publications/
 ---
 
-0.  [Ocean general circulation models simulate total ocean transport averaged over surface waves][15]
+0.  [Ocean general circulation models simulate total ocean transport averaged over surface waves][15] 
     Gregory L Wagner, Navid C Constantinou, and Brandon Reichl
     **Geophysical Research Letters**, *submitted*
 
@@ -11,7 +11,7 @@ permalink: /publications/
     Gregory L Wagner, Ali Ramadhan, Greg C Chini, Basile Gallet, and Raffaele Ferrari
     **Journal of Physical Oceanography**, *2021*
 
-0.  [Oceananigans.jl: Fast and friendly geophysical fluid dynamics on GPUs][13]
+0.  [Oceananigans.jl: Fast and friendly geophysical fluid dynamics on GPUs][13] 
     Ali Ramadhan, Gregory L Wagner, Chris Hill, Jean-Michel Campin, Valentin Churavy, Tim Besard, Andre Souza, Alan Edelman, Raffaele Ferrari, John Marshall
     **Journal of Open Source Software**, *2020*
 
