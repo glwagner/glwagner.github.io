@@ -3,13 +3,17 @@ title: Publications
 permalink: /publications/
 ---
 
-0.  [Ocean general circulation models simulate total ocean transport averaged over surface waves][14]
+0.  [Ocean general circulation models simulate total ocean transport averaged over surface waves][15]
     Gregory L Wagner, Navid C Constantinou, and Brandon Reichl
     **Geophysical Research Letters**, *submitted*
 
-0.  [Near-inertial waves and turbulence driven by the growth of swell][13] 
+0.  [Near-inertial waves and turbulence driven by the growth of swell][14] 
     Gregory L Wagner, Ali Ramadhan, Greg C Chini, Basile Gallet, and Raffaele Ferrari
     **Journal of Physical Oceanography**, *2021*
+
+0.  [Oceananigans.jl: Fast and friendly geophysical fluid dynamics on GPUs][13]
+    Ali Ramadhan, Gregory L Wagner, Chris Hill, Jean-Michel Campin, Valentin Churavy, Tim Besard, Andre Souza, Alan Edelman, Raffaele Ferrari, John Marshall
+    **Journal of Open Source Software**, *2020*
 
 0.  [Uncertainty quantification of ocean parameterizations: application to the K-Profile-Parameterization for penetrative convection][12] 
     Andre Souza, Gregory L Wagner, Ali Ramadhan, Brandon Allen, Valentin Churavy, James Schloss, Jean-Michel Campin, Chris Hill,
@@ -73,8 +77,9 @@ permalink: /publications/
 [The whole thing]: https://glwagner.github.io/assets/pdf/glw-dissertation.pdf 
 [Official version on ProQuest]: https://search.proquest.com/openview/ef72173747526fae401cdbdbcfdfc224/1?pq-origsite=gscholar&cbl=18750&diss=y
 
-[14]: https://glwagner.github.io/assets/pdf/Stokes-drift-ocean-circulation-Wagner-Constantinou-Reichl.pdf
-[13]: https://glwagner.github.io/assets/pdf/near-inertial-waves-turbulence-growth-swell-preprint.pdf
+[15]: https://glwagner.github.io/assets/pdf/Stokes-drift-ocean-circulation-Wagner-Constantinou-Reichl.pdf
+[14]: https://glwagner.github.io/assets/pdf/near-inertial-waves-turbulence-growth-swell-preprint.pdf
+[13]: https://glwagner.github.io/assets/pdf/oceananigans-joss.pdf
 [12]: https://www.essoar.org/doi/abs/10.1002/essoar.10502546.1
 [11]: https://glwagner.github.io/assets/pdf/squeeze-dispersion-GRL-2019.pdf
 [10]: https://glwagner.github.io/assets/pdf/stimulated-generation-JFM-2018.pdf
