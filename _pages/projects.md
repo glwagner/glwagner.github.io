@@ -13,9 +13,14 @@ See my [github] for real-time updates on my software projects.
 
 I develop models for vertical turbulent mixing in the ocean surface boundary layer
 (at scales between 1 and 100 meters), and for horizontal mixing by ocean mesoscale eddies
-(at scales from 10-200 kilometers). The models I work on are physics-based,
-but leverage powerful data-driven techniques for parameter estimation
-and uncertainty quantification. This work is part of the [CliMa] project.
+(at scales from 10-200 kilometers).
+My work is focused on developing models that use as much physics as possible,
+but nevertheless leverage powerful, modern data-driven techniques for
+parameter estimation and uncertainty quantification.
+As part of my parameterization work, I develop [ParameterEstimocean.jl](https://github.com/CliMA/ParameterEstimocean.jl),
+a software package for estimating free parameters, and part of a data-driven framework
+for inventing and improving approximate models for turublent fluxes in Earth's ocean.
+This work is part of the [CliMa] project.
 
 ### [Oceananigans.jl]
 
