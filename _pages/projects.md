@@ -19,15 +19,17 @@ and uncertainty quantification. This work is part of the [CliMa] project.
 
 ### [Oceananigans.jl]
 
-In the course of my work on turbulent boundary layers, I run a lot
-of large eddy simulations using [Oceananigans.jl]. 
-[Oceananigans.jl] is a fast and friendly code for simulating the motion
-of fluids that I'm helping to develop.
+I'm one of the core developers of CliMa's ocean component, [Oceananigans.jl]. 
+[Oceananigans.jl] is a fast and friendly software for ocean problems
+that range from idealized class room problem, to high-resolution, ~1 meter
+large eddy simulations, to planetary-scale general circulation simulations.
 
 ![Oceananigans docs](/assets/figures/oceananigans_docs.png)
 
 [Oceananigans.jl] is written in the Julia programming 
-language and runs on CPUs and GPUs.
+language and runs on CPUs and GPUs. I've helped develop Oceananigans'
+ground-breaking user interface and the sustainable, extensible design of
+its internal.
 
 ### Surface gravity waves and wave-turbulence interactions
 
