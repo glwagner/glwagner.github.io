@@ -3,7 +3,7 @@ title: Publications
 permalink: /publications/
 ---
 
-0.  [Ocean general circulation models simulate total ocean transport averaged over surface waves][15]  
+0.  [Stokes drift should not be added to ocean general circulation model velocities][15]  
     Gregory L Wagner, Navid C Constantinou, and Brandon Reichl
     **Geophysical Research Letters**, *submitted*
 
