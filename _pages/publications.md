@@ -3,6 +3,10 @@ title: Publications
 permalink: /publications/
 ---
 
+0.  [CATKE: a turbulent-kinetic-energy-based parameterization for ocean microturbulence with dynamic convective adjustment][16]  
+    Gregory L Wagner, Adeline Hillier, Navid C Constantinou, Simone Silvestri, Andre Souza, Keaton Burns, Ali Ramadhan, Chris Hill, Jean-Michel Campin, John Marshall, and Raffaele Ferrari
+    **Journal of Advances in Modeling Earth Systems**, *submitted*
+
 0.  [Stokes drift should not be added to ocean general circulation model velocities][15]  
     Gregory L Wagner, Navid C Constantinou, and Brandon Reichl
     **Geophysical Research Letters**, *submitted*
@@ -77,6 +81,7 @@ permalink: /publications/
 [The whole thing]: https://glwagner.github.io/assets/pdf/glw-dissertation.pdf 
 [Official version on ProQuest]: https://search.proquest.com/openview/ef72173747526fae401cdbdbcfdfc224/1?pq-origsite=gscholar&cbl=18750&diss=y
 
+[15]: https://glwagner.github.io/assets/pdf/CATKE.pdf
 [15]: https://glwagner.github.io/assets/pdf/Stokes-drift-ocean-circulation-Wagner-Constantinou-Reichl.pdf
 [14]: https://glwagner.github.io/assets/pdf/near-inertial-waves-turbulence-growth-swell-preprint.pdf
 [13]: https://glwagner.github.io/assets/pdf/oceananigans-joss.pdf
