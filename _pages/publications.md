@@ -3,7 +3,7 @@ title: Publications
 permalink: /publications/
 ---
 
-0.  [CATKE: a turbulent-kinetic-energy-based parameterization for ocean microturbulence with dynamic convective adjustment][16]
+0.  [CATKE: a turbulent-kinetic-energy-based parameterization for ocean microturbulence with dynamic convective adjustment][16]  
     Gregory L Wagner, Adeline Hillier, Navid C Constantinou, Simone Silvestri, Andre Souza, Keaton Burns, Ali Ramadhan, Chris Hill, Jean-Michel Campin, John Marshall, and Raffaele Ferrari
     **Journal of Advances in Modeling Earth Systems**, *submitted*
 
