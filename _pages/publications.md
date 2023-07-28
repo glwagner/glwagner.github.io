@@ -85,7 +85,7 @@ permalink: /publications/
 [The whole thing]: https://glwagner.github.io/assets/pdf/glw-dissertation.pdf 
 [Official version on ProQuest]: https://search.proquest.com/openview/ef72173747526fae401cdbdbcfdfc224/1?pq-origsite=gscholar&cbl=18750&diss=y
 
-[16]: https://glwagner.github.io/assets/pdf/transition-to-turbulence-wind-dirft-layers.pdf
+[17]: https://glwagner.github.io/assets/pdf/transition-to-turbulence-wind-dirft-layers.pdf
 [16]: https://glwagner.github.io/assets/pdf/CATKE.pdf
 [15]: https://glwagner.github.io/assets/pdf/Stokes-drift-ocean-circulation-Wagner-Constantinou-Reichl.pdf
 [14]: https://glwagner.github.io/assets/pdf/near-inertial-waves-turbulence-growth-swell-preprint.pdf
