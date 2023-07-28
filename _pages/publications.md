@@ -3,6 +3,10 @@ title: Publications
 permalink: /publications/
 ---
 
+0.  [Transition to turbulence in wind-drift layers][17]
+    Gregory L Wagner, Nick Pizzo, Luc Lenain, Fabrice Veron
+    **Journal of Fluid Mechanics**, *submitted*
+
 0.  [CATKE: a turbulent-kinetic-energy-based parameterization for ocean microturbulence with dynamic convective adjustment][16]  
     Gregory L Wagner, Adeline Hillier, Navid C Constantinou, Simone Silvestri, Andre Souza, Keaton Burns, Ali Ramadhan, Chris Hill, Jean-Michel Campin, John Marshall, and Raffaele Ferrari
     **Journal of Advances in Modeling Earth Systems**, *submitted*
@@ -81,6 +85,7 @@ permalink: /publications/
 [The whole thing]: https://glwagner.github.io/assets/pdf/glw-dissertation.pdf 
 [Official version on ProQuest]: https://search.proquest.com/openview/ef72173747526fae401cdbdbcfdfc224/1?pq-origsite=gscholar&cbl=18750&diss=y
 
+[16]: https://glwagner.github.io/assets/pdf/transition-to-turbulence-wind-dirft-layers.pdf
 [16]: https://glwagner.github.io/assets/pdf/CATKE.pdf
 [15]: https://glwagner.github.io/assets/pdf/Stokes-drift-ocean-circulation-Wagner-Constantinou-Reichl.pdf
 [14]: https://glwagner.github.io/assets/pdf/near-inertial-waves-turbulence-growth-swell-preprint.pdf
