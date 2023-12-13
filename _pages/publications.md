@@ -3,17 +3,21 @@ title: Publications
 permalink: /publications/
 ---
 
-0.  [Transition to turbulence in wind-drift layers][17]
-    Gregory L Wagner, Nick Pizzo, Luc Lenain, Fabrice Veron
-    **Journal of Fluid Mechanics**, *submitted*
+0. [A new WENO-based momentum advection scheme for simulations of ocean mesoscale turbulence][18]
+    Simone Silvestri, Gregory L Wagner, Jean-Michel Campin, Navid C Constantinou, Christopher N. Hill, Andre Nogueira Souza, Raffaele Ferrari
+    **Journal of Advances in Modeling Earth Systems**, *submitted*
 
-0.  [CATKE: a turbulent-kinetic-energy-based parameterization for ocean microturbulence with dynamic convective adjustment][16]  
+0.  [CATKE: a turbulent-kinetic-energy-based parameterization for ocean microturbulence with dynamic convective adjustment][17]  
     Gregory L Wagner, Adeline Hillier, Navid C Constantinou, Simone Silvestri, Andre Souza, Keaton Burns, Ali Ramadhan, Chris Hill, Jean-Michel Campin, John Marshall, and Raffaele Ferrari
     **Journal of Advances in Modeling Earth Systems**, *submitted*
 
-0.  [Stokes drift should not be added to ocean general circulation model velocities][15]  
+0.  [Stokes drift should not be added to ocean general circulation model velocities][16]  
     Gregory L Wagner, Navid C Constantinou, and Brandon Reichl
     **Geophysical Research Letters**, *submitted*
+
+0.  [Transition to turbulence in wind-drift layers][15]
+    Gregory L Wagner, Nick Pizzo, Luc Lenain, Fabrice Veron
+    **Journal of Fluid Mechanics**, *2023*
 
 0.  [Near-inertial waves and turbulence driven by the growth of swell][14]  
     Gregory L Wagner, Ali Ramadhan, Greg C Chini, Basile Gallet, and Raffaele Ferrari
@@ -85,9 +89,10 @@ permalink: /publications/
 [The whole thing]: https://glwagner.github.io/assets/pdf/glw-dissertation.pdf 
 [Official version on ProQuest]: https://search.proquest.com/openview/ef72173747526fae401cdbdbcfdfc224/1?pq-origsite=gscholar&cbl=18750&diss=y
 
-[17]: https://glwagner.github.io/assets/pdf/transition-to-turbulence-wind-drift-layers.pdf
-[16]: https://glwagner.github.io/assets/pdf/CATKE.pdf
-[15]: https://glwagner.github.io/assets/pdf/Stokes-drift-ocean-circulation-Wagner-Constantinou-Reichl.pdf
+[18]: https://essopenarchive.org/doi/full/10.22541/essoar.170110657.76489860/v1
+[17]: https://glwagner.github.io/assets/pdf/CATKE.pdf
+[16]: https://glwagner.github.io/assets/pdf/Stokes-drift-ocean-circulation-Wagner-Constantinou-Reichl.pdf
+[15]: https://glwagner.github.io/assets/pdf/transition-to-turbulence-wind-drift-layers.pdf
 [14]: https://glwagner.github.io/assets/pdf/near-inertial-waves-turbulence-growth-swell-preprint.pdf
 [13]: https://glwagner.github.io/assets/pdf/oceananigans-joss.pdf
 [12]: https://www.essoar.org/doi/abs/10.1002/essoar.10502546.1
