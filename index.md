@@ -10,10 +10,17 @@ and software design that empowers scientists and makes ocean modeling
 as accessible as possible.
 I'm currently working with the [Climate Modeling Alliance] 
 to build the ocean component for a new earth system model.
+I'm leading the development of the popular ocean-flavored fluid dynamics
+software [Oceananigans], developing a new sea ice model [ClimaSeaIce],
+and researching turbulent mixing parameterization,
+wave-turbulence interaction, sea ice thermodynamics, air-sea flux parameterization,
+and more.
 
 Learn more about [me], [what I do], read my [curriculum vitae],
 or email me at `gregory.leclaire.wagner@gmail.com`.
 
+[Oceananigans]: https://github.com/CliMA/Oceananigans.jl
+[ClimaSeaIce]: https://github.com/CliMA/ClimaSeaIce.jl
 [Earth, Atmospheric, and Planetary Sciences]: https://eapsweb.mit.edu
 [Climate Modeling Alliance]: https://clima.caltech.edu
 [curriculum vitae]: https://glwagner.github.io/assets/pdf/glw-curriculum-vitae.pdf
