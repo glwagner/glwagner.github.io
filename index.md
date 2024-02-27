@@ -8,11 +8,13 @@ I'm a research scientist in
 I'm interested in ocean physics, waves, turbulence, mixing,
 and software design that empowers scientists and makes ocean modeling 
 as accessible as possible.
-I'm currently working with the [Climate Modeling Alliance] 
+
+Lately I've been working with the [Climate Modeling Alliance] 
 to build the ocean component for a new earth system model.
-I'm leading the development of the popular ocean-flavored fluid dynamics
-software [Oceananigans], developing a new sea ice model [ClimaSeaIce],
-and researching turbulent mixing parameterization,
+In this adventure I've lead the development of the popular
+ocean-flavored fluid dynamics software [Oceananigans], started
+development of a new sea ice model [ClimaSeaIce],
+and researched turbulent mixing parameterization,
 wave-turbulence interaction, sea ice thermodynamics, air-sea flux parameterization,
 and more.
 
