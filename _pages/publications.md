@@ -7,7 +7,7 @@ permalink: /publications/
     Simone Silvestri, Gregory L Wagner, Jean-Michel Campin, Navid C Constantinou, Christopher N. Hill, Andre Nogueira Souza, Raffaele Ferrari
     **Journal of Advances in Modeling Earth Systems**, *submitted*
 
-0.  [CATKE: a turbulent-kinetic-energy-based parameterization for ocean microturbulence with dynamic convective adjustment][18]  
+0.  [Formulation and calibration of CATKE, a one-equation parameterization for microscale ocean mixing][18]
     Gregory L Wagner, Adeline Hillier, Navid C Constantinou, Simone Silvestri, Andre Souza, Keaton Burns, Ali Ramadhan, Chris Hill, Jean-Michel Campin, John Marshall, and Raffaele Ferrari
     **Journal of Advances in Modeling Earth Systems**, *submitted*
 
