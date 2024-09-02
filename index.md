@@ -5,18 +5,22 @@ title: Me: human and scientist
 I'm a research scientist in 
 [Earth, Atmospheric, and Planetary Sciences] at [MIT].
 
-I'm interested in ocean physics, waves, turbulence, mixing,
-and software design that empowers scientists and makes ocean modeling 
-as accessible as possible.
+With the [Climate Modeling Alliance], I'm working on building the
+ocean and sea ice components for a new, trainable climate model
+with quantified uncertainty.
+Our new model is radical departures from existing models in some ways --- it's written
+in the Julia programming language and runs on GPUs.
+In some other ways, it's not so different from the traditional climate models that
+have been around for decades.
 
-Lately I've been working with the [Climate Modeling Alliance] 
-to build the ocean component for a new earth system model.
-In this adventure I've lead the development of the popular
-ocean-flavored fluid dynamics software [Oceananigans], started
-development of a new sea ice model [ClimaSeaIce],
-and worked on turbulent mixing parameterization,
-wave-turbulence interaction, sea ice thermodynamics, air-sea flux parameterization,
-and more.
+My work includes research in physical processes, parameterization,
+as well as software development.
+I lead the development of the popular, fast, and flexible
+ocean-flavored fluid dynamics software [Oceananigans],
+the sea ice modeling software [ClimaSeaIce],
+and have research efforts in turbulent mixing parameterization,
+surface-wave-turbulence interaction, sea ice thermodynamics,
+air-sea flux parameterization, and more.
 
 Learn more about [me], [what I do], read my [curriculum vitae],
 or email me at `gregory.leclaire.wagner@gmail.com`.
