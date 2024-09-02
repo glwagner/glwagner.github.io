@@ -24,9 +24,6 @@ I received a PhD from UCSD in May of 2016 for a
 Along the way, I fell in love with [running], [climbing], 
 [backcountry skiing], and [surfing].
 
-I moved back to Boston in November 2016 to work at [MIT][office] on ocean mixing, 
-[parameterization of oceanic processes][clima], [large eddy simulation], and [ice climbing].
-
 ## An abbreviated curriculum vitae ([pdf][CV])
 
 ### Work
