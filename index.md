@@ -6,12 +6,7 @@ I'm a research scientist in
 [Earth, Atmospheric, and Planetary Sciences] at [MIT].
 
 With the [Climate Modeling Alliance], I'm working on building the
-ocean and sea ice components for a new, trainable climate model
-with quantified uncertainty.
-Our new model is radical departures from existing models in some ways --- it's written
-in the Julia programming language and runs on GPUs.
-In some other ways, it's not so different from the traditional climate models that
-have been around for decades.
+ocean and sea ice components for a new, trainable climate model with quantified uncertainty.
 
 My work includes research in physical processes, parameterization,
 as well as software development.
