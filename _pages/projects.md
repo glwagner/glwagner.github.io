@@ -9,6 +9,21 @@ Have questions about my work? Email me at
 `gregory.leclaire.wagner@gmail.com`. 
 See my [github] for real-time updates on my software projects.
 
+### [Oceananigans.jl]
+
+I lead the development of the ocean modeling software [Oceananigans.jl]. 
+[Oceananigans.jl] is fast and friendly software for problems ranging from
+idealized classroom-ready tutorials, to high-resolution
+large eddy simulations in simple or complex domains,
+to realistic planetary-scale ocean general circulation simulations.
+
+![Oceananigans docs](/assets/figures/oceananigans_docs.png)
+
+[Oceananigans.jl] is open source, written in the Julia programming 
+language and 10-50x faster than existing ocean modeling software.
+I've helped develop Oceananigans' ground-breaking user interface and
+the sustainable, extensible design of its internals.
+
 ### Turbulent ocean mixing
 
 I develop models for vertical turbulent mixing in the ocean surface boundary layer
@@ -21,21 +36,6 @@ As part of my parameterization work, I develop [ParameterEstimocean.jl](https://
 a software package for estimating free parameters, and part of a data-driven framework
 for inventing and improving approximate models for turublent fluxes in Earth's ocean.
 This work is part of the [CliMa] project.
-
-### [Oceananigans.jl]
-
-I'm one of the core developers of CliMa's ocean component, [Oceananigans.jl]. 
-[Oceananigans.jl] is fast and friendly software for problems ranging from
-idealized classroom-ready tutorials, to high-resolution
-large eddy simulations in simple or complex domains,
-to realistic planetary-scale ocean general circulation simulations.
-
-![Oceananigans docs](/assets/figures/oceananigans_docs.png)
-
-[Oceananigans.jl] is open source, written in the Julia programming 
-language and runs on CPUs and GPUs. I've helped develop Oceananigans'
-ground-breaking user interface and the sustainable, extensible design of
-its internals.
 
 ### Surface gravity waves and wave-turbulence interactions
 
