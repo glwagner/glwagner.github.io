@@ -11,7 +11,7 @@ See my [github] for real-time updates on my software projects.
 ### [Oceananigans] and [ClimaOcean]
 
 I lead the development of the ocean modeling software [Oceananigans], and the ocean
-component its based on, [ClimaOcean]. 
+component it's based on, [ClimaOcean]. 
 Oceananigans is written in the [Julia programming language][julia] and
 accelerated by GPUs.
 It's simple and intuitive enough for idealized classroom-ready tutorials,
