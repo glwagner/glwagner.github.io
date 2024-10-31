@@ -2,11 +2,10 @@
 title: A few things I work on
 header:
   image: /assets/images/blueoffice-2.jpg
-permalink: /projects/
+permalink: /work/
 ---
 
-Have questions about my work? Email me at
-`gregory.leclaire.wagner@gmail.com`. 
+If you'd like to chat more about my work, email me at `gregory.leclaire.wagner@gmail.com`. 
 See my [github] for real-time updates on my software projects.
 
 ### [Oceananigans] and [ClimaOcean]
@@ -14,13 +13,14 @@ See my [github] for real-time updates on my software projects.
 I lead the development of the ocean modeling software [Oceananigans], and the ocean
 component its based on, [ClimaOcean]. 
 Oceananigans is written in the [Julia programming language][julia] and
-accelerated by GPUs: simple and intuitive enough for idealized classroom-ready tutorials,
+accelerated by GPUs.
+It's simple and intuitive enough for idealized classroom-ready tutorials,
 but also 10-50x faster than existing models, enabling high-resolution large eddy simulations in complex domains
 and realistic mesoscale-turbulence-resolving global ocean simulations.
 
 ![Oceananigans docs](/assets/figures/oceananigans_docs.png)
 
-The Oceananigans and ClimaOcean future is bright: the community is hard at work on 
+The Oceananigans and ClimaOcean community is hard at work on 
 global coupled ocean and sea ice simulations, biogeochemistry simulations for verifying
 [marine carbon dioxide removal], and [making Oceananigans differentiable] to enable the
 the next generation of hybrid AI/physics ocean simulations.
