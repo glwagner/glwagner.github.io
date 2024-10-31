@@ -21,7 +21,7 @@ I worked with [Eric Lauga] and [Bill Young] on bugs and waves until receiving a 
 Along the way, I fell in love with [running], [climbing], [backcountry skiing], and [surfing].
 I moved to Boston in 2017 for a postdoc with [Raf Ferrari] at [MIT] funded by a [NOAA fellowship][NOAA Climate and Global Change Postdoctoral Fellowship],
 before joining the [Climate Modeling Alliance] as an MIT research scientist in 2019.
-In 2020, I met Leah.
+In 2020, Leah and I climbed [our first multipitch route](https://www.mountainproject.com/route/106511942/endeavor) together.
 
 ## An abbreviated curriculum vitae ([pdf][CV])
 
