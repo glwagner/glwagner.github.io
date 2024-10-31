@@ -1,7 +1,7 @@
 ---
 title: About me
 header:
-  image: /assets/images/montage.png
+  image: /assets/images/starrysky.jpg
 permalink: /about/
 ---
 
@@ -13,37 +13,31 @@ I love to learn and to teach, to think about past and future, and to
 run, climb, ski, and explore the landscapes of Earth.
 
 **Long ago**, I grew up in a [Boston suburb][wellesley]. 
-Later, I studied Aerospace Engineering and worked on
-on combustion in porous media, space propulsion, and wind energy 
-in Ann Arbor before moving to San Diego to pursue a PhD in 2010.
-I worked with [Eric Lauga] on locomotion, with [Bill Young] on nonlinear waves,
-and with both on microorganism mixing.
-I received a PhD from UCSD in May of 2016 for a 
+Later, I studied Aerospace Engineering, combustion, space propulsion,
+and wind energy at the University of Michigan before moving to San Diego to pursue a PhD at UCSD in 2010.
+I worked with [Eric Lauga] and [Bill Young] on bugs and waves until receiving a PhD for a 
 [dissertation] titled 
-[*On the coupled evolution of oceanic internal waves and quasi-geostrophic flow*][proquest].
-Along the way, I fell in love with [running], [climbing], 
-[backcountry skiing], and [surfing].
+[*On the coupled evolution of oceanic internal waves and quasi-geostrophic flow*][proquest] in May 2016.
+Along the way, I fell in love with [running], [climbing], [backcountry skiing], and [surfing].
+I moved to Boston in 2017 for a postdoc with [Raf Ferrari] at [MIT] funded by a [NOAA fellowship][NOAA Climate and Global Change Postdoctoral Fellowship],
+before joining the [Climate Modeling Alliance] as an MIT research scientist in 2019.
+In 2020, I met Leah.
 
 ## An abbreviated curriculum vitae ([pdf][CV])
 
-### Work
+### Jobs
 
 * since 2019: Research Scientist, Massachusetts Institute of Technology
 * 2016--2018: Postdoctoral Fellow, Massachusetts Institute of Technology
 * 2014--2016: Teaching Assistant and Graduate Research Assistant, University of California, San Diego
 * 2009--2010: Research Engineer, Accio Energy
 
-### Teaching
-
-* Fall 2015: Teaching Assistant, Introduction to Mathematical Physics
-* Spring 2015: Teaching Assistant, Introduction to Mathematical Physics 
-* Winter 2014: Teaching Assistant, Fluid Dynamics II
-
 ### Education
 
 * PhD, University of California, San Diego (2016) 
 * MSE, University of Michigan, Ann Arbor (2010) 
 * BSE, University of Michigan, Ann Arbor, *Magna Cum Laude* (2009)
+* Wellesley High School (2005)
 
 ### Awards
 
@@ -60,15 +54,17 @@ Along the way, I fell in love with [running], [climbing],
 [office]: https://www.instagram.com/p/BMrz7d5DoCJ/
 
 [wellesley]: https://en.wikipedia.org/wiki/Wellesley,_Massachusetts
-[clima]: https://clima.caltech.edu
+[Climate Modeling Alliance]: https://clima.caltech.edu
+[UCSD]: https://ucsd.edu/
+[MIT]: https://www.mit.edu/
 [large eddy simulation]: http://bit.ly/oceananigans
 [dissertation]: https://glwagner.github.io/publications#dissertation
 [proquest]: https://search.proquest.com/openview/ef72173747526fae401cdbdbcfdfc224/1?pq-origsite=gscholar&cbl=18750&diss=y
 [CV]: https://glwagner.github.io/assets/pdf/glw-curriculum-vitae.pdf
 [ever-changing currents]: http://oceanservice.noaa.gov/facts/eddy.html
 [subsurface internal waves]: https://en.wikipedia.org/wiki/Internal_wave
-[NOAA Climate & Global Change Postdoctoral Fellowship]: http://vsp.ucar.edu/cgc/current-awards-alumni 
-[Raffaele Ferrari]: http://ferrari.mit.edu 
+[NOAA Climate and Global Change Postdoctoral Fellowship]: http://vsp.ucar.edu/cgc/current-awards-alumni 
+[Raf Ferrari]: http://ferrari.mit.edu 
 [Bill Young]: http://pordlabs.ucsd.edu/wryoung/
 [Eric Lauga]: http://www.damtp.cam.ac.uk/user/lauga/
 [bottom-enhanced ocean turbulence]: http://www.nature.com/nature/journal/v513/n7517/full/513179a.html
