@@ -17,6 +17,7 @@ accelerated by GPUs.
 It's simple and intuitive enough for idealized classroom-ready tutorials,
 but also 10-50x faster than existing models, enabling high-resolution large eddy simulations in complex domains
 and realistic mesoscale-turbulence-resolving global ocean simulations.
+Here's a screenshot from the [Oceananigans documentation]:
 
 ![Oceananigans docs](/assets/figures/oceananigans_docs.png)
 
@@ -44,7 +45,7 @@ ocean surface boundary layer. I collaborate with experimentalists and observatio
 to develop, improve, and validate theories and numerical simulations of near-surface
 turbulence interacting with surface waves.
 The image below depicts surface-wave-affected turbulence simulated by
-[Oceananigans.jl].
+[Oceananigans].
 
 ![Forced growth](/assets/figures/forced_growth.png)
 
@@ -64,4 +65,5 @@ or in [this paper](https://glwagner.github.io/assets/pdf/near-inertial-waves-tur
 [github]: https://github.com/glwagner
 [marine carbon dioxide removal]: https://www.whitehouse.gov/ostp/news-updates/2023/10/06/marine-carbon-dioxide-removal-potential-ways-to-harness-the-ocean-to-mitigate-climate-change/
 [making Oceananigans differentiable]: https://dj4earth.github.io/
+[Oceananigans documentation]: clima.github.io/OceananigansDocumentation/stable
 
