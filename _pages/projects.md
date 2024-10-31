@@ -9,45 +9,42 @@ Have questions about my work? Email me at
 `gregory.leclaire.wagner@gmail.com`. 
 See my [github] for real-time updates on my software projects.
 
-### [Oceananigans.jl]
+### [Oceananigans] and [ClimaOcean]
 
-I lead the development of the ocean modeling software [Oceananigans.jl]. 
-[Oceananigans.jl] is fast and friendly software for problems ranging from
-idealized classroom-ready tutorials, to high-resolution
-large eddy simulations in simple or complex domains,
-to realistic planetary-scale ocean general circulation simulations.
+I lead the development of the ocean modeling software [Oceananigans], and the ocean
+component its based on, [ClimaOcean]. 
+Oceananigans is written in the [Julia programming language][julia] and
+accelerated by GPUs: simple and intuitive enough for idealized classroom-ready tutorials,
+but also 10-50x faster than existing models, enabling high-resolution large eddy simulations in complex domains
+and realistic mesoscale-turbulence-resolving global ocean simulations.
 
 ![Oceananigans docs](/assets/figures/oceananigans_docs.png)
 
-[Oceananigans.jl] is open source, written in the Julia programming 
-language and 10-50x faster than existing ocean modeling software.
-I've helped develop Oceananigans' ground-breaking user interface and
-the sustainable, extensible design of its internals.
+The Oceananigans and ClimaOcean future is bright: the community is hard at work on 
+global coupled ocean and sea ice simulations, biogeochemistry simulations for verifying
+[marine carbon dioxide removal], and [making Oceananigans differentiable] to enable the
+the next generation of hybrid AI/physics ocean simulations.
+
+### [ClimaSeaIce]
+
+ClimaSeaIce is new software for simulating sea ice thermodynamics and mechanics that builds off Oceananigans.
+As with Oceananigans, our goal is to develop software that is flexible and hackable enough to be used like a research code
+but fast and sophisticated enough to power the sea ice component of a new climate model.
 
 ### Turbulent ocean mixing
 
-I develop models for vertical turbulent mixing in the ocean surface boundary layer
-(at scales between 1 and 100 meters), and for horizontal mixing by ocean mesoscale eddies
-(at scales from 10-200 kilometers).
-My work is focused on developing models that use as much physics as possible,
-but nevertheless leverage powerful, modern data-driven techniques for
-parameter estimation and uncertainty quantification.
-As part of my parameterization work, I develop [ParameterEstimocean.jl](https://github.com/CliMA/ParameterEstimocean.jl),
-a software package for estimating free parameters, and part of a data-driven framework
-for inventing and improving approximate models for turublent fluxes in Earth's ocean.
-This work is part of the [CliMa] project.
+I develop models for turbulent mixing at scales between 1 and 100 meters.
+My work combines "traditional" theory-based model development
+with modern data-driven techniques for parameter estimation and uncertainty quantification.
 
 ### Surface gravity waves and wave-turbulence interactions
 
 Frothing, whitecapping, undulating surface waves are the top of the
-ocean surface boundary layer. I work both on the theory of surface
-wave forcing and momentum transfer between the atmosphere and ocean, and
-on interactions between surface waves and boundary layer turbulence.
-
-The image below depicts turbulence simulated by
-[Oceananigans.jl]. The image shows the turbulent vertical velocity field
-that develops following the growth of a surface wave field with 
-a wave length of one hundred meters over four hours.
+ocean surface boundary layer. I collaborate with experimentalists and observationalists
+to develop, improve, and validate theories and numerical simulations of near-surface
+turbulence interacting with surface waves.
+The image below depicts surface-wave-affected turbulence simulated by
+[Oceananigans.jl].
 
 ![Forced growth](/assets/figures/forced_growth.png)
 
@@ -55,18 +52,16 @@ Information about how to produce this image can be found
 [on github](https://github.com/glwagner/WaveTransmittedTurbulence.jl),
 or in [this paper](https://glwagner.github.io/assets/pdf/near-inertial-waves-turbulence-growth-swell-preprint.pdf).
 
-I've also co-written a [paper](https://glwagner.github.io/assets/pdf/Stokes-drift-ocean-circulation-Wagner-Constantinou-Reichl.pdf)
-on a common source of confusion in studies on ocean transport:
-how to interpret general circulation model output when that model does _not_ depend
-explicitly on the ocean surface gravity wave field.
-
 [Subsurface internal waves]: http://www.livescience.com/42459-huge-ocean-internal-waves-explained.html
 [quasi-geostrophic eddies]: https://en.wikipedia.org/wiki/Geostrophic_current
 [FourierFlows.jl]: https://github.com/FourierFlows/FourierFlows.jl
 [Navid Constantinou]: http://www.navidconstantinou.com
 [CliMa]: https://clima.caltech.edu
 [julia]: https://julialang.org
-[Oceananigans.jl]: https://clima.github.io/OceananigansDocumentation/stable/
-[dedalus]: http://dedalus-project.org
-[Keaton Burns]: http://keaton-burns.com
+[Oceananigans]: https://clima.github.io/OceananigansDocumentation/stable/
+[ClimaSeaIce]: https://github.com/CliMA/ClimaSeaIce.jl
+[ClimaOcean]: https://github.com/CliMA/ClimaOcean.jl
 [github]: https://github.com/glwagner
+[marine carbon dioxide removal]: https://www.whitehouse.gov/ostp/news-updates/2023/10/06/marine-carbon-dioxide-removal-potential-ways-to-harness-the-ocean-to-mitigate-climate-change/
+[making Oceananigans differentiable]: https://dj4earth.github.io/
+
