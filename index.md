@@ -7,10 +7,9 @@ I'm a research scientist in
 
 I'm working with the [Climate Modeling Alliance] (CliMA) to build a
 new, trainable climate model with quantified uncertainty.
-I use both scientific research and software development.
 
 My work aims both to better understand the world, and to improve the fidelity of ocean and climate simulations.
-In science, I study turbulent ocean mixing, and improve the representation of ocean and sea ice processes in climate models.
+My science investigates turbulence dynamics and mixing, wave-mean interaction, near-surface processes, and improves the representation of ocean and sea ice processes in large-scale models.
 In software, I lead the development of CliMA's [ocean component](ClimaOcean), CliMA's [sea ice component](ClimaSeaIce),
 and the ground-breaking ocean modeling software they are based on, [Oceananigans].
 Oceananigans is written for GPUs in the high-level [Julia programming language](https://julialang.org/): at once highly productive, easy to develop, and 10-50x faster than existing software.
