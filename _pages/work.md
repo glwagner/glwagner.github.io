@@ -1,7 +1,7 @@
 ---
 title: A few things I work on
 header:
-  image: /assets/images/blueoffice-2.jpg
+  image: /assets/images/outtosea.jpg
 permalink: /work/
 ---
 
