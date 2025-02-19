@@ -2,31 +2,30 @@
 title: Publications
 permalink: /publications/
 ---
-0.  [High-level, high-resolution ocean modeling at all scales with Oceananigans][21]
+0.  [High-level, high-resolution ocean modeling at all scales with Oceananigans][21]  
     Gregory L Wagner, Simone Silvestri, Navid C Constantinou, Ali Ramadhan, Jean-Michel Campin, Chris Hill, Tomás Chor, Jago Strong-Wright, Xin Kai Lee, Francis Poulin, Andre Souza, Keaton J Burns, John Marshall, and Raffaele Ferrari
     **Journal of Advances in Modeling Earth Systems**, *submitted*
 
-0.  [Formulation and calibration of CATKE, a one-equation parameterization for microscale ocean mixing][20]
+0.  [Formulation and calibration of CATKE, a one-equation parameterization for microscale ocean mixing][20]  
     Gregory L Wagner, Adeline Hillier, Navid C Constantinou, Simone Silvestri, Andre Souza, Keaton Burns, Ali Ramadhan, Chris Hill, Jean-Michel Campin, John Marshall, and Raffaele Ferrari
     **Journal of Advances in Modeling Earth Systems**, *accepted*
 
-0. [A GPU-based ocean dynamical core for routine mesoscale-resolving
-climate simulations][19]
+0. [A GPU-based ocean dynamical core for routine mesoscale-resolving climate simulations][19]  
     Simone Silvestri, Gregory L Wagner, Navid C Constantinou, Christopher N. Hill, Jean-Michel Campin, Andre Nogueira Souza, Siddartha Bishnu, Valentin Churavy, John C Marshall, Raffaele Ferrari
     **Journal of Advances in Modeling Earth Systems**, *2024*
 
-0. [A new WENO-based momentum advection scheme for simulations of ocean mesoscale turbulence][18]
+0. [A new WENO-based momentum advection scheme for simulations of ocean mesoscale turbulence][18]  
     Simone Silvestri, Gregory L Wagner, Jean-Michel Campin, Navid C Constantinou, Christopher N. Hill, Andre Nogueira Souza, Raffaele Ferrari
     **Journal of Advances in Modeling Earth Systems**, *2024*
 
 0.  [Stokes drift should not be added to ocean general circulation model velocities][17]  
     Gregory L Wagner, Navid C Constantinou, and Brandon Reichl
 
-0.  [Transition to turbulence in wind-drift layers][16]
+0.  [Transition to turbulence in wind-drift layers][16]  
     Gregory L Wagner, Nick Pizzo, Luc Lenain, Fabrice Veron
     **Journal of Fluid Mechanics**, *2023*
 
-0. [Epidemic management and control through risk-dependent individual contact interventions][15]
+0. [Epidemic management and control through risk-dependent individual contact interventions][15]  
     Tapio Schneider, Oliver RA Dunbar, Jinlong Wu, Lucas Böttcher, Dmitry Burov, Alfredo Garbuno-Inigo, Gregory L Wagner, Sen Pei, Chiara Daraio, Raffaele Ferrari, Jeffrey Shaman
     **PLOS Computational Biology**, *2022*
 
