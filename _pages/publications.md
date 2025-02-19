@@ -2,6 +2,10 @@
 title: Publications
 permalink: /publications/
 ---
+0.  [High-level, high-resolution ocean modeling at all scales with Oceananigans][21]
+    Gregory L Wagner, Simone Silvestri, Navid C Constantinou, Ali Ramadhan, Jean-Michel Campin, Chris Hill, Tomas Chor, Jago Strong-Wright, Xin Kai Lee, Francis Poulin, Andre Souza, Keaton J Burns, John Marshall, and Raffaele Ferrari
+    **Journal of Advances in Modeling Earth Systems**, *submitted*
+
 0.  [Formulation and calibration of CATKE, a one-equation parameterization for microscale ocean mixing][20]
     Gregory L Wagner, Adeline Hillier, Navid C Constantinou, Simone Silvestri, Andre Souza, Keaton Burns, Ali Ramadhan, Chris Hill, Jean-Michel Campin, John Marshall, and Raffaele Ferrari
     **Journal of Advances in Modeling Earth Systems**, *accepted*
@@ -96,6 +100,7 @@ climate simulations][19]
 [The whole thing]: https://glwagner.github.io/assets/pdf/glw-dissertation.pdf 
 [Official version on ProQuest]: https://search.proquest.com/openview/ef72173747526fae401cdbdbcfdfc224/1?pq-origsite=gscholar&cbl=18750&diss=y
 
+[21]: https://glwagner.github.io/assets/pdf/Oceananigans.pdf
 [20]: https://glwagner.github.io/assets/pdf/CATKE.pdf
 [19]: https://essopenarchive.org/doi/full/10.22541/essoar.171708158.82342448
 [18]: https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023MS004130
