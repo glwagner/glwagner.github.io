@@ -2,16 +2,21 @@
 title: Publications
 permalink: /publications/
 ---
+
+0.  [Decaying turbulence beneath surface waves][22]  
+    Gregory L Wagner, Navid C Constantinou  
+    **Journal of Fluid Mechanics**, *submitted*
+
 0.  [High-level, high-resolution ocean modeling at all scales with Oceananigans][21]  
-    Gregory L Wagner, Simone Silvestri, Navid C Constantinou, Ali Ramadhan, Jean-Michel Campin, Chris Hill, Tomás Chor, Jago Strong-Wright, Xin Kai Lee, Francis Poulin, Andre Souza, Keaton J Burns, John Marshall, and Raffaele Ferrari
+    Gregory L Wagner, Simone Silvestri, Navid C Constantinou, Ali Ramadhan, Jean-Michel Campin, Chris Hill, Tomás Chor, Jago Strong-Wright, Xin Kai Lee, Francis Poulin, Andre Souza, Keaton J Burns, John Marshall, and Raffaele Ferrari   
     **Journal of Advances in Modeling Earth Systems**, *submitted*
 
 0.  [Formulation and calibration of CATKE, a one-equation parameterization for microscale ocean mixing][20]  
-    Gregory L Wagner, Adeline Hillier, Navid C Constantinou, Simone Silvestri, Andre Souza, Keaton Burns, Ali Ramadhan, Chris Hill, Jean-Michel Campin, John Marshall, and Raffaele Ferrari
+    Gregory L Wagner, Adeline Hillier, Navid C Constantinou, Simone Silvestri, Andre Souza, Keaton Burns, Ali Ramadhan, Chris Hill, Jean-Michel Campin, John Marshall, and Raffaele Ferrari  
     **Journal of Advances in Modeling Earth Systems**, *accepted*
 
 0. [A GPU-based ocean dynamical core for routine mesoscale-resolving climate simulations][19]  
-    Simone Silvestri, Gregory L Wagner, Navid C Constantinou, Christopher N. Hill, Jean-Michel Campin, Andre Nogueira Souza, Siddartha Bishnu, Valentin Churavy, John C Marshall, Raffaele Ferrari
+    Simone Silvestri, Gregory L Wagner, Navid C Constantinou, Christopher N. Hill, Jean-Michel Campin, Andre Nogueira Souza, Siddartha Bishnu, Valentin Churavy, John C Marshall, Raffaele Ferrari   
     **Journal of Advances in Modeling Earth Systems**, *2024*
 
 0. [A new WENO-based momentum advection scheme for simulations of ocean mesoscale turbulence][18]  
@@ -99,6 +104,7 @@ permalink: /publications/
 [The whole thing]: https://glwagner.github.io/assets/pdf/glw-dissertation.pdf 
 [Official version on ProQuest]: https://search.proquest.com/openview/ef72173747526fae401cdbdbcfdfc224/1?pq-origsite=gscholar&cbl=18750&diss=y
 
+[22]: https://glwagner.github.io/assets/pdf/wave_averaged_decaying_turbulence.pdf
 [21]: https://glwagner.github.io/assets/pdf/Oceananigans.pdf
 [20]: https://glwagner.github.io/assets/pdf/CATKE.pdf
 [19]: https://essopenarchive.org/doi/full/10.22541/essoar.171708158.82342448
