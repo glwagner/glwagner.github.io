@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Work"
-    url: /work/
   - title: "Publications"
     url: /publications/
   - title: "About me"
