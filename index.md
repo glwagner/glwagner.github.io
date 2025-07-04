@@ -6,13 +6,13 @@ I'm a research scientist in
 [Earth, Atmospheric, and Planetary Sciences] at [MIT].
 
 I'm working with the [Climate Modeling Alliance] (CliMA) to build a
-new, trainable climate model with quantified uncertainty.
+new, trainable Earth System model with quantified uncertainty.
 
-My work aims both to better understand the world, and to improve the fidelity of ocean and climate simulations.
-I study turbulence and mixing, waves, near-surface processes, and the approximate representation of ocean and sea ice processes in numerical simulations.
-I also lead the development of CliMA's [ocean component](ClimaOcean), CliMA's [sea ice component](ClimaSeaIce),
-and the ground-breaking ocean modeling software they are based on, [Oceananigans].
-Oceananigans is written for GPUs in the high-level [Julia programming language](https://julialang.org/): highly productive, easy to develop, and 10-50x faster than existing software.
+I lead the development of [Oceananigans], as well as CliMA's [ocean component](ClimaOcean) and [sea ice component](ClimaSeaIce).
+Our approach, which is detailed in our [preprint](oceananigans-paper), is to marry ground-breaking software design for modeling with simple numerical methods that are compatible with machine learning optimized for high resolution simulations on GPUs.
+The result is clear, accessible, understandable, high performance code increases the productivity of scientists and model developers, and ultimately aims to accelerate progress in Earth system science.
+
+I also study turbulence and mixing, waves, near-surface processes, and the approximate representation of ocean and sea ice processes in numerical simulations.
 
 Learn more about [me], [what I do], read my [curriculum vitae],
 or email me at `gregory.leclaire.wagner@gmail.com`.
@@ -26,3 +26,4 @@ or email me at `gregory.leclaire.wagner@gmail.com`.
 [me]: https://glwagner.github.io/about/
 [what I do]: https://glwagner.github.io/work/
 [MIT]: http://www.mit.edu
+[oceananigans-paper]: https://glwagner.github.io/assets/pdf/Oceananigans.pdf
