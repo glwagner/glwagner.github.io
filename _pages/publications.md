@@ -21,7 +21,7 @@ permalink: /publications/
 
 0. [A GPU-based ocean dynamical core for routine mesoscale-resolving climate simulations][19]  
     Simone Silvestri, Gregory L Wagner, Navid C Constantinou, Christopher N. Hill, Jean-Michel Campin, Andre Nogueira Souza, Siddartha Bishnu, Valentin Churavy, John C Marshall, Raffaele Ferrari   
-    **Journal of Advances in Modeling Earth Systems**, *2024*
+    **Journal of Advances in Modeling Earth Systems**, *2025*
 
 0. [A new WENO-based momentum advection scheme for simulations of ocean mesoscale turbulence][18]  
     Simone Silvestri, Gregory L Wagner, Jean-Michel Campin, Navid C Constantinou, Christopher N. Hill, Andre Nogueira Souza, Raffaele Ferrari
@@ -112,7 +112,7 @@ permalink: /publications/
 [22]: https://glwagner.github.io/assets/pdf/wave_averaged_decaying_turbulence.pdf
 [21]: https://link.springer.com/article/10.1007/s42286-025-00117-6
 [20]: https://glwagner.github.io/assets/pdf/CATKE.pdf
-[19]: https://essopenarchive.org/doi/full/10.22541/essoar.171708158.82342448
+[19]: https://doi.org/10.1029/2024MS004465
 [18]: https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023MS004130
 [17]: https://glwagner.github.io/assets/pdf/Stokes-drift-ocean-circulation-Wagner-Constantinou-Reichl.pdf
 [16]: https://glwagner.github.io/assets/pdf/transition-to-turbulence-wind-drift-layers.pdf
