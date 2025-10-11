@@ -9,7 +9,7 @@ permalink: /publications/
 
 0.  [Phenomenology of decaying turbulence beneath surface waves][22]  
     Gregory L Wagner, Navid C Constantinou  
-    **Journal of Fluid Mechanics**, *in review*
+    **Journal of Fluid Mechanics**, *2025*
 
 0. [Deep Flows Transmitted by Forced Surface Gravity Waves][21]  
     Nick Pizzo and Gregory L. Wagner  
@@ -109,7 +109,7 @@ permalink: /publications/
 [Official version on ProQuest]: https://search.proquest.com/openview/ef72173747526fae401cdbdbcfdfc224/1?pq-origsite=gscholar&cbl=18750&diss=y
 
 [23]: https://glwagner.github.io/assets/pdf/Oceananigans.pdf
-[22]: https://arxiv.org/pdf/2503.03871
+[22]: https://glwagner.github.io/assets/pdf/wave_averaged_decaying_turbulence.pdf
 [21]: https://link.springer.com/article/10.1007/s42286-025-00117-6
 [20]: https://glwagner.github.io/assets/pdf/CATKE.pdf
 [19]: https://essopenarchive.org/doi/full/10.22541/essoar.171708158.82342448
