@@ -8,11 +8,11 @@ permalink: /publications/
     **Journal of Advances in Modeling Earth Systems**, *submitted*
 
 0.  [Phenomenology of decaying turbulence beneath surface waves][22]  
-    Gregory L Wagner, Navid C Constantinou  
+    Gregory L Wagner and Navid C Constantinou  
     **Journal of Fluid Mechanics**, *2025*
 
 0. [Deep Flows Transmitted by Forced Surface Gravity Waves][21]  
-    Nick Pizzo and Gregory L. Wagner  
+    Nick Pizzo and Gregory L Wagner  
    **Water Waves**, *2025*
 
 0.  [Formulation and calibration of CATKE, a one-equation parameterization for microscale ocean mixing][20]  
@@ -24,7 +24,7 @@ permalink: /publications/
     **Journal of Advances in Modeling Earth Systems**, *2025*
 
 0. [A new WENO-based momentum advection scheme for simulations of ocean mesoscale turbulence][18]  
-    Simone Silvestri, Gregory L Wagner, Jean-Michel Campin, Navid C Constantinou, Christopher N. Hill, Andre Nogueira Souza, Raffaele Ferrari
+    Simone Silvestri, Gregory L Wagner, Jean-Michel Campin, Navid C Constantinou, Christopher N Hill, Andre Nogueira Souza, Raffaele Ferrari
     **Journal of Advances in Modeling Earth Systems**, *2024*
 
 0.  [Stokes drift should not be added to ocean general circulation model velocities][17]  
@@ -35,7 +35,7 @@ permalink: /publications/
     **Journal of Fluid Mechanics**, *2023*
 
 0. [Epidemic management and control through risk-dependent individual contact interventions][15]  
-    Tapio Schneider, Oliver RA Dunbar, Jinlong Wu, Lucas Böttcher, Dmitry Burov, Alfredo Garbuno-Inigo, Gregory L Wagner, Sen Pei, Chiara Daraio, Raffaele Ferrari, Jeffrey Shaman
+    Tapio Schneider, Oliver R A Dunbar, Jinlong Wu, Lucas Böttcher, Dmitry Burov, Alfredo Garbuno-Inigo, Gregory L Wagner, Sen Pei, Chiara Daraio, Raffaele Ferrari, Jeffrey Shaman
     **PLOS Computational Biology**, *2022*
 
 0.  [Near-inertial waves and turbulence driven by the growth of swell][14]  
