@@ -5,10 +5,10 @@ title: Me: human and scientist
 I'm the head of numerical weather prediction at [Aeolus Labs] and a research scientist in [Earth, Atmospheric, and Planetary Sciences] at [MIT].
 I develop differentiable software that plies the region between physics and machine learning.
 I also dabble in fluid dynamics, physics, and Earth system modeling.
-Writ large, my goal is to accelerate progress in Earth system science by making simulations of Earth system cheaper, easier, and more accurate.
+Writ large, my goal is to accelerate progress in Earth system science by making simulations of the Earth system cheaper, easier, and more accurate.
 
 At Aeolus, I'm leading a team to build a differentiable, physics-based, GPU-first atmosphere model based on [Oceananigans].
-Our goal is to develop capabilities for ultra-high-resolution hybrid physics/ML weather prediction and hurricane science.
+Our goal is to enable ultra-high-resolution physics+ML weather prediction and hurricane science.
 
 Learn more about [me], [what I do], read my [curriculum vitae], read our [preprint about Oceananigans](oceananigans-paper)
 or get in touch at `gregory.leclaire.wagner@gmail.com`.
