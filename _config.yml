@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "glw's work"
 title_separator          : "-"
 name                     : "Gregory L Wagner"
-description              : "Mostly about ocean physics."
+description              : "Physics simulations and realities"
 url                      : "https://glwagner.github.io"
 baseurl                  : # Subpath, if there is one.
 repository               : "glwagner/glwagner.github.io"
