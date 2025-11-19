@@ -2,13 +2,15 @@
 title: Me: human and scientist
 ---
 
-I'm a research scientist in [Earth, Atmospheric, and Planetary Sciences] at [MIT].
-I'll also be starting a new position very soon as the head of numerical weather prediction at [Aeolus Labs].
+I'm head of Numerical Weather Prediction at [Aeolus Labs] and a research scientist
+in [Earth, Atmospheric, and Planetary Sciences] at [MIT].
 I develop differentiable software that plies the region between physics and machine learning.
 I also dabble in fluid dynamics, physics, and Earth system modeling.
-Writ large, my goal is to accelerate progress in Earth system science by making simulations of the Earth system cheaper, easier, and more accurate.
+Writ large, my goal is to accelerate progress in Earth system science by making simulations
+of the Earth system easier, cheaper, and more accurate.
 
-At Aeolus, I'll be leading a team to build a differentiable, physics-based, GPU-first atmosphere model based on [Oceananigans].
+At Aeolus, I'm leading a team to build a differentiable,
+physics-based, GPU-first atmosphere model based on [Oceananigans].
 Our goal is to enable ultra-high-resolution physics+ML weather prediction and hurricane science.
 The new model is called [Breeze].
 
