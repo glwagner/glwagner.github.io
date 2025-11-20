@@ -3,8 +3,12 @@ title: Publications
 permalink: /publications/
 ---
 
-0.  [High-level, high-resolution ocean modeling at all scales with Oceananigans][23]  
+0.  [High-level, high-resolution ocean modeling at all scales with Oceananigans][24]  
     Gregory L Wagner, Simone Silvestri, Navid C Constantinou, Ali Ramadhan, Jean-Michel Campin, Chris Hill, Tomás Chor, Jago Strong-Wright, Xin Kai Lee, Francis Poulin, Andre Souza, Keaton J Burns, John Marshall, and Raffaele Ferrari   
+    **Journal of Advances in Modeling Earth Systems**, *submitted*
+
+0.  [DJ4Earth: Differentiable, and Performance-portable Earth System Modeling via Program Transformations][23]
+    William S Moses, Gong Cheng, Valentin Churavy, Maximilian Gelbrecht, Milan Klo\"wer, Joseph Kump, Mathieu Morlighem, Sarah Williamson, Dhruv Apte, Paul Berg, Mose\' Giordano, Chris Hill, Nora Loose, Alexis Montoison, Sri Hari Krishna Narayanan, Avik Pal, Michel Schanen, Simone Silvestri, Gregory LeClaire Wagner, Patrick Heimbach
     **Journal of Advances in Modeling Earth Systems**, *submitted*
 
 0.  [Phenomenology of decaying turbulence beneath surface waves][22]  
@@ -108,6 +112,7 @@ permalink: /publications/
 [The whole thing]: https://glwagner.github.io/assets/pdf/glw-dissertation.pdf 
 [Official version on ProQuest]: https://search.proquest.com/openview/ef72173747526fae401cdbdbcfdfc224/1?pq-origsite=gscholar&cbl=18750&diss=y
 
+[24]: https://glwagner.github.io/assets/pdf/Oceananigans.pdf
 [23]: https://glwagner.github.io/assets/pdf/Oceananigans.pdf
 [22]: https://glwagner.github.io/assets/pdf/wave_averaged_decaying_turbulence.pdf
 [21]: https://link.springer.com/article/10.1007/s42286-025-00117-6
