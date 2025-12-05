@@ -3,12 +3,16 @@ title: Publications
 permalink: /publications/
 ---
 
-0.  [High-level, high-resolution ocean modeling at all scales with Oceananigans][24]  
+0.  [High-level, high-resolution ocean modeling at all scales with Oceananigans][25]  
     Gregory L Wagner, Simone Silvestri, Navid C Constantinou, Ali Ramadhan, Jean-Michel Campin, Chris Hill, Tomás Chor, Jago Strong-Wright, Xin Kai Lee, Francis Poulin, Andre Souza, Keaton J Burns, John Marshall, and Raffaele Ferrari   
     **Journal of Advances in Modeling Earth Systems**, *submitted*
 
+0. [NORi: An ML-Augmented Ocean Boundary Layer Parameterizations][24]  
+    Xin Kai Lee, Ali Ramadhan, Andre Souza, Gregory LeClaire Wagner, Simone Silvestri, John Marshall, and Raffaele Ferrari  
+    **Journal of Advances in Modeling Earth Systems**, *submitted*
+
 0.  [DJ4Earth: Differentiable, and Performance-portable Earth System Modeling via Program Transformations][23]
-    William S Moses, Gong Cheng, Valentin Churavy, Maximilian Gelbrecht, Milan Klo\"wer, Joseph Kump, Mathieu Morlighem, Sarah Williamson, Dhruv Apte, Paul Berg, Mose\' Giordano, Chris Hill, Nora Loose, Alexis Montoison, Sri Hari Krishna Narayanan, Avik Pal, Michel Schanen, Simone Silvestri, Gregory LeClaire Wagner, Patrick Heimbach
+    William S Moses, Gong Cheng, Valentin Churavy, Maximilian Gelbrecht, Milan Klo\"wer, Joseph Kump, Mathieu Morlighem, Sarah Williamson, Dhruv Apte, Paul Berg, Mose\' Giordano, Chris Hill, Nora Loose, Alexis Montoison, Sri Hari Krishna Narayanan, Avik Pal, Michel Schanen, Simone Silvestri, Gregory LeClaire Wagner, Patrick Heimbach  
     **Journal of Advances in Modeling Earth Systems**, *submitted*
 
 0.  [Phenomenology of decaying turbulence beneath surface waves][22]  
@@ -28,7 +32,7 @@ permalink: /publications/
     **Journal of Advances in Modeling Earth Systems**, *2025*
 
 0. [A new WENO-based momentum advection scheme for simulations of ocean mesoscale turbulence][18]  
-    Simone Silvestri, Gregory L Wagner, Jean-Michel Campin, Navid C Constantinou, Christopher N Hill, Andre Nogueira Souza, Raffaele Ferrari
+    Simone Silvestri, Gregory L Wagner, Jean-Michel Campin, Navid C Constantinou, Christopher N Hill, Andre Nogueira Souza, Raffaele Ferrari  
     **Journal of Advances in Modeling Earth Systems**, *2024*
 
 0.  [Stokes drift should not be added to ocean general circulation model velocities][17]  
@@ -39,68 +43,67 @@ permalink: /publications/
     **Journal of Fluid Mechanics**, *2023*
 
 0. [Epidemic management and control through risk-dependent individual contact interventions][15]  
-    Tapio Schneider, Oliver R A Dunbar, Jinlong Wu, Lucas Böttcher, Dmitry Burov, Alfredo Garbuno-Inigo, Gregory L Wagner, Sen Pei, Chiara Daraio, Raffaele Ferrari, Jeffrey Shaman
+    Tapio Schneider, Oliver R A Dunbar, Jinlong Wu, Lucas Böttcher, Dmitry Burov, Alfredo Garbuno-Inigo, Gregory L Wagner, Sen Pei, Chiara Daraio, Raffaele Ferrari, Jeffrey Shaman  
     **PLOS Computational Biology**, *2022*
 
 0.  [Near-inertial waves and turbulence driven by the growth of swell][14]  
-    Gregory L Wagner, Ali Ramadhan, Greg C Chini, Basile Gallet, and Raffaele Ferrari
+    Gregory L Wagner, Ali Ramadhan, Greg C Chini, Basile Gallet, and Raffaele Ferrari  
     **Journal of Physical Oceanography**, *2021*
 
 0.  [Oceananigans.jl: Fast and friendly geophysical fluid dynamics on GPUs][13]  
-    Ali Ramadhan, Gregory L Wagner, Chris Hill, Jean-Michel Campin, Valentin Churavy, Tim Besard, Andre Souza, Alan Edelman, Raffaele Ferrari, John Marshall
+    Ali Ramadhan, Gregory L Wagner, Chris Hill, Jean-Michel Campin, Valentin Churavy, Tim Besard, Andre Souza, Alan Edelman, Raffaele Ferrari, John Marshall  
     **Journal of Open Source Software**, *2020*
 
 0.  [Uncertainty quantification of ocean parameterizations: application to the K-Profile-Parameterization for penetrative convection][12]  
     Andre Souza, Gregory L Wagner, Ali Ramadhan, Brandon Allen, Valentin Churavy, James Schloss, Jean-Michel Campin, Chris Hill,
-    Alan Edelman, John Marshall, Glenn Flierl, Raffaele Ferrari
+    Alan Edelman, John Marshall, Glenn Flierl, Raffaele Ferrari  
     **Journal of Advances in Modeling Earth Systems**, *2020*
 
 0.  [Squeeze dispersion: modulation of diapycnal mixing by diapycnal strain][11]  
-    Gregory L Wagner, Glenn Flierl, Raffaele Ferrari, Gunnar Voet, Glenn S Carter, Matthew H Alford, James B Girton
+    Gregory L Wagner, Glenn Flierl, Raffaele Ferrari, Gunnar Voet, Glenn S Carter, Matthew H Alford, James B Girton  
     **Geophysical Research Letters**, *2019*
 
 0.  [Stimulated generation: extraction of energy from balanced flow by near-inertial waves][10]  
-    Cesar B Rocha, Gregory L Wagner, and William R Young
+    Cesar B Rocha, Gregory L Wagner, and William R Young  
     **Journal of Fluid Mechanics**, *2018*
 
 0.  [An asymptotic model for the propagation of internal tides through quasi-geostrophic flow][9]  
-    Gregory L Wagner, Gwenael Ferrando and William R Young
+    Gregory L Wagner, Gwenael Ferrando and William R Young  
     **Journal of Fluid Mechanics**, *2017*
 
 0.  [A three-component model for the coupled evolution of near-inertial waves, quasi-geostrophic flow, and the near-inertial second harmonic][8]  
-    Gregory L Wagner and William R Young
+    Gregory L Wagner and William R Young  
     **Journal of Fluid Mechanics**, *2016*
 
 0.  [A tale of two spicy seas][7]  
-    Jennifer A MacKinnon *et al.*
+    Jennifer A MacKinnon *et al.*  
     **Oceanography**, *2016*
 
 0.  [Acoustically propelled nanoshells][6]  
     Fernando Soto, Gregory L Wagner, Victor Garcia-Gradilla, Kyle T Gillespie, Deepak R Lakshmipathy,
-    Emil Karshalev, Chava Angell, Yi Chen, Joseph Wang
+    Emil Karshalev, Chava Angell, Yi Chen, Joseph Wang  
     **Nanoscale**, *2016*
 
 0.  [Available potential vorticity and wave-averaged quasi-geostrophic flow][5]  
-    Gregory L Wagner and William R Young
+    Gregory L Wagner and William R Young  
     **Journal of Fluid Mechanics**, *2015*
 
 0.  [Mixing by microorganisms in stratified fluids][4]  
-    Gregory L Wagner, Eric Lauga, and William R Young
+    Gregory L Wagner, Eric Lauga, and William R Young  
     **Journal of Marine Research**, *2014*
 
 0.  [Bubble-Propelled Micromotors for Enhanced Transport of Passive Tracers][3]  
-    Jahir Orozco *et al.*
+    Jahir Orozco *et al.*  
     **Langmuir**, *2014*
 
 0.  [Crawling scallop: Friction-based locomotion with one degree of freedom][2]  
-    Gregory L Wagner and Eric Lauga
+    Gregory L Wagner and Eric Lauga  
     **Journal of Theoretical Biology**, *2013*
 
 0.  [Specific Charge Control for Micro/Nano-Particle Electrostatic Propulsion][1]  
-    Thomas Liu, Gregory Wagner, Alec Gallimore, Brian Gilchrist, Peter Peterson
+    Thomas Liu, Gregory Wagner, Alec Gallimore, Brian Gilchrist, Peter Peterson  
     **AIAA/ASME/SAE/ASEE Joint Propulsion Conference**, *2009*
 {: reversed="reversed"}
-
 
 # <a id="dissertation"></a>My doctoral dissertation
 
@@ -112,7 +115,8 @@ permalink: /publications/
 [The whole thing]: https://glwagner.github.io/assets/pdf/glw-dissertation.pdf 
 [Official version on ProQuest]: https://search.proquest.com/openview/ef72173747526fae401cdbdbcfdfc224/1?pq-origsite=gscholar&cbl=18750&diss=y
 
-[24]: https://glwagner.github.io/assets/pdf/Oceananigans.pdf
+[25]: https://glwagner.github.io/assets/pdf/Oceananigans.pdf
+[24]: https://arxiv.org/pdf/2512.04452
 [23]: https://glwagner.github.io/assets/pdf/Oceananigans.pdf
 [22]: https://glwagner.github.io/assets/pdf/wave_averaged_decaying_turbulence.pdf
 [21]: https://link.springer.com/article/10.1007/s42286-025-00117-6
