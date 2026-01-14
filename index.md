@@ -2,11 +2,11 @@
 title: Me: human and scientist
 ---
 
-I'm head of Numerical Weather Prediction at [Aeolus Labs] and a research scientist
+I'm the head of Numerical Weather Prediction at [Aeolus Labs] and a research scientist
 in [Earth, Atmospheric, and Planetary Sciences] at [MIT].
-I develop differentiable software that plies the region between physics and machine learning.
-I also dabble in fluid dynamics, physics, and Earth system modeling.
-Writ large, my goal is to accelerate progress in Earth system science by making simulations
+I develop Earth system modeling software that plies the region between physics and machine learning
+and dabble in fluid dynamics.
+My goal is to accelerate progress in Earth system science by making simulations
 of the Earth system easier, cheaper, and more accurate.
 
 At Aeolus, I'm leading a team to build a differentiable,
