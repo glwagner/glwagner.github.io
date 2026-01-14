@@ -20,13 +20,14 @@ I worked with [Eric Lauga] and [Bill Young] on bugs and waves until receiving a 
 [*On the coupled evolution of oceanic internal waves and quasi-geostrophic flow*][proquest] in May 2016.
 Along the way, I fell in love with [running], [climbing], [backcountry skiing], and [surfing].
 I moved to Boston in 2017 for a postdoc with [Raf Ferrari] at [MIT] funded by a [NOAA fellowship][NOAA Climate and Global Change Postdoctoral Fellowship],
-before joining the [Climate Modeling Alliance] as an MIT research scientist in 2019.
+before joining the [Climate Modeling Alliance] as a research scientist in 2019.
 In 2020, Leah and I climbed [our first multipitch route](https://www.mountainproject.com/route/106511942/endeavor) together.
 
 ## An abbreviated curriculum vitae ([pdf][CV])
 
 ### Jobs
 
+* since 2025: Principal Engineer, Aeolus Labs
 * since 2019: Research Scientist, Massachusetts Institute of Technology
 * 2016--2018: Postdoctoral Fellow, Massachusetts Institute of Technology
 * 2014--2016: Teaching Assistant and Graduate Research Assistant, University of California, San Diego
