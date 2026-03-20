@@ -5,8 +5,8 @@ header:
 permalink: /about/
 ---
 
-I research the Earth's ocean, its physics and motion, and
-its entangled eddies, turbulence, currents, and waves.
+I research the Earth system, its physics and motion, and
+the entangled dynamics of clouds, turbulence, currents, and waves.
 I do a lot of math and write code that runs on supercomputers.
 In the distant past, I went to [sea].
 I love to learn and to teach, to think about past and future, and to 
@@ -27,7 +27,7 @@ In 2020, Leah and I climbed [our first multipitch route](https://www.mountainpro
 
 ### Jobs
 
-* since 2025: Principal Engineer, Aeolus Labs
+* since 2025: Head of Numerical Weather Prediction, Aeolus Labs
 * since 2019: Research Scientist, Massachusetts Institute of Technology
 * 2016--2018: Postdoctoral Fellow, Massachusetts Institute of Technology
 * 2014--2016: Teaching Assistant and Graduate Research Assistant, University of California, San Diego
