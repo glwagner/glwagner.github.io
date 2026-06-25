@@ -9,9 +9,10 @@ and dabble in fluid dynamics.
 My goal is to accelerate progress in Earth system science by making simulations
 of the Earth system easier, faster, and more accurate.
 
-At Aeolus, I lead a team to build a differentiable,
+At Aeolus, I'm leading a team building a differentiable,
 physics-based, GPU-first atmosphere model based on [Oceananigans].
-Our goal is to enable ultra-high-resolution weather prediction and hurricane science.
+Our goal is ultra-high-resolution weather prediction and hurricane science based on both
+physics and machine learning.
 The new model is called [Breeze].
 
 Learn more about [me], [what I do], read my [curriculum vitae], read our [preprint about Oceananigans](oceananigans-paper)
