@@ -3,6 +3,10 @@ title: Publications
 permalink: /publications/
 ---
 
+0.  [A low-storage Runge-Kutta framework for non-linear free-surface ocean models][26]  
+    Simone Silvestri, Jean-Michel Campin, Gregory L Wagner, Navid C Constantinou, Xin Kai Lee, and Raffaele Ferrari  
+    *preprint*, *2026*
+
 0.  [High-level, high-resolution ocean modeling at all scales with Oceananigans][25]  
     Gregory L Wagner, Simone Silvestri, Navid C Constantinou, Ali Ramadhan, Jean-Michel Campin, Chris Hill, Tomás Chor, Jago Strong-Wright, Xin Kai Lee, Francis Poulin, Andre Souza, Keaton J Burns, John Marshall, and Raffaele Ferrari   
     **Journal of Advances in Modeling Earth Systems**, *submitted*
@@ -115,6 +119,7 @@ permalink: /publications/
 [The whole thing]: https://glwagner.github.io/assets/pdf/glw-dissertation.pdf 
 [Official version on ProQuest]: https://search.proquest.com/openview/ef72173747526fae401cdbdbcfdfc224/1?pq-origsite=gscholar&cbl=18750&diss=y
 
+[26]: https://essopenarchive.org/doi/full/10.22541/essoar.15002225
 [25]: https://glwagner.github.io/assets/pdf/Oceananigans.pdf
 [24]: https://arxiv.org/pdf/2512.04452
 [23]: https://glwagner.github.io/assets/pdf/Oceananigans.pdf
