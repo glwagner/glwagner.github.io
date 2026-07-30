@@ -10,10 +10,11 @@ My goal is to accelerate progress in Earth system science by making simulations
 of the Earth system easier, faster, and more accurate.
 
 At Aeolus, I'm leading a team building a differentiable,
-physics-based, GPU-first atmosphere model based on [Oceananigans].
+physics-based, GPU-first Earth system simulation engine based on [Oceananigans].
 Our goal is ultra-high-resolution weather prediction and hurricane science based on both
 physics and machine learning.
-The new model is called [Breeze].
+For this we are leading the development of a new atmosphere model, [Breeze],
+and investing heavily in the community development of [NumericalEarth].
 
 Learn more about [me], [what I do], read my [curriculum vitae], read our [preprint about Oceananigans](oceananigans-paper)
 or get in touch at `gregory.leclaire.wagner@gmail.com`.
@@ -21,6 +22,7 @@ or get in touch at `gregory.leclaire.wagner@gmail.com`.
 [Aeolus Labs]: https://aeolus.earth/
 [Oceananigans]: https://github.com/CliMA/Oceananigans.jl
 [Breeze]: https://github.com/NumericalEarth/Breeze.jl
+[NumericalEarth]: https://github.com/NumericalEarth/NumericalEarth.jl
 [Earth, Atmospheric, and Planetary Sciences]: https://eapsweb.mit.edu
 [Climate Modeling Alliance]: https://clima.caltech.edu
 [curriculum vitae]: https://glwagner.github.io/assets/pdf/glw-curriculum-vitae.pdf
