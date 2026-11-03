@@ -28,7 +28,7 @@ In 2020, Leah and I climbed [our first multipitch route](https://www.mountainpro
 ### Jobs
 
 * since 2025: Head of Numerical Weather Prediction, Aeolus Labs
-* since 2019: Research Scientist, Massachusetts Institute of Technology
+* 2019--2025: Research Scientist, Massachusetts Institute of Technology
 * 2016--2018: Postdoctoral Fellow, Massachusetts Institute of Technology
 * 2014--2016: Teaching Assistant and Graduate Research Assistant, University of California, San Diego
 * 2009--2010: Research Engineer, Accio Energy
